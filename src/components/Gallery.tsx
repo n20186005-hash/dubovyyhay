@@ -34,7 +34,7 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Diukivskyi Sad ${i + 1}`,
+    alt: captions?.[i] || `Dubovyy Hay ${i + 1}`,
   }));
 
   const visiblePhotos = photos;

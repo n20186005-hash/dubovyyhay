@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://diukivskyisad.com';
+  const baseUrl = 'https://dubovyyhay.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
@@ -51,7 +51,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Diukivskyi Sad",
+      siteName: "Dubovyy Hay",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },

@@ -19,8 +19,8 @@
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Explore Diukivskyi Sad",
-    "description": "Diukivskyi Sad (Дюківський Сад) is located in Odesa, Odesa Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Odesa, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Odesa.",
+    "title": "Explore Dubovyy Hay",
+    "description": "Dubovyy Hay (Дубовий Гай (Dubovyy Hay)) is located in Zaporizhzhia, Zaporizhzhia Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Zaporizhzhia, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Zaporizhzhia.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -33,20 +33,20 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Urban Oasis: Diukivskyi Sad is an important park within Odesa, providing precious green space for citizens and tourists.",
+        "Urban Oasis: Dubovyy Hay is an important park within Zaporizhzhia, providing precious green space for citizens and tourists.",
         "Recreation Destination: The park features walking paths and rest areas, making it an ideal place to relax and enjoy nature.",
         "Historical Ruins & Water Features: The park preserves grand abandoned buildings and tranquil ponds, adding a unique retro atmosphere to this urban oasis.",
-        "Convenient Location: Located within Odesa city, easily accessible by walking or public transportation."
+        "Convenient Location: Located within Zaporizhzhia city, easily accessible by walking or public transportation."
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Diukivskyi Sad",
+    "title": "Discover the Charm of Dubovyy Hay",
     "sections": [
       {
         "id": "history",
         "title": "Historical Significance",
-        "content": "Diukivskyi Sad is an important park in Odesa, providing recreational space for local residents and tourists. The park has witnessed the development and changes of Odesa city."
+        "content": "Dubovyy Hay is an important park in Zaporizhzhia, providing recreational space for local residents and tourists. The park has witnessed the development and changes of Zaporizhzhia city."
       },
       {
         "id": "nature",
@@ -56,7 +56,7 @@
       {
         "id": "experience",
         "title": "Recreation Experience",
-        "content": "Diukivskyi Sad is the best place to experience Odesa's urban natural atmosphere. You can sit on a bench in the park to rest, stroll along the tree-lined paths, or simply enjoy a moment of tranquility."
+        "content": "Dubovyy Hay is the best place to experience Zaporizhzhia's urban natural atmosphere. You can sit on a bench in the park to rest, stroll along the tree-lined paths, or simply enjoy a moment of tranquility."
       }
     ]
   },
@@ -74,7 +74,9 @@
     "address": "Address",
     "addressValue": "вулиця Глісерна, 1, Zaporizhzhia, Zaporizhia Oblast, Ukraine 69000",
     "plusCode": "Plus Code",
-    "plusCodeValue": "R56C+75 Zaporizhzhia, Zaporizhzhia Oblast, Ukraine"
+    "plusCodeValue": "R56C+75 Zaporizhzhia, Zaporizhzhia Oblast, Ukraine",
+    "phone": "Phone",
+    "phoneValue": "+380 6176 42297"
   },
   "hours": {
     "title": "Opening Hours",
@@ -91,48 +93,48 @@
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Diukivskyi Sad",
+    "outdoor": "Dubovyy Hay",
     "outdoorPrice": "Free all day",
     "lighthouse": "Nearby Attractions",
-    "adults": "Other Attractions in Odesa",
+    "adults": "Other Attractions in Zaporizhzhia",
     "adultsPrice": "Fees apply according to each attraction's rules",
     "students": "Parking Fees",
     "studentsPrice": "Paid parking available near the park",
     "children": "Transport Tip",
-    "childrenPrice": "Located in Odesa city, accessible by public transport or driving",
+    "childrenPrice": "Located in Zaporizhzhia city, accessible by public transport or driving",
     "card": "Travel Pass",
     "cardPrice": "Recommended to get a local transport card for convenient public transport"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: Odesa International Airport (ODS) (approx. 10 km, 20 minutes drive). From the airport, you can take a taxi or public transport to the city center.",
+    "airportDesc": "Nearest airport: Zaporizhzhia International Airport (OZH) (Note: due to the current situation, please confirm transport and flight availability in advance). From the airport, you can take a taxi or public transport to the city center.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "Odesa has convenient transportation within the city. It is recommended to park in paid parking lots around the park.",
+    "selfDriveDesc": "Zaporizhzhia has convenient transportation within the city. It is recommended to park in paid parking lots around the park.",
     "bus": "Public Transport",
-    "busDesc": "You can take Odesa's buses or trams to near the park. Please check local public transport apps for specific routes.",
+    "busDesc": "You can take Zaporizhzhia's buses or trams to near the park. Please check local public transport apps for specific routes.",
     "intercity": "Short-Distance Travel",
-    "intercityDesc": "The park is located within Odesa city, very convenient to access from the city center by walking, public transport, or taxi.",
+    "intercityDesc": "The park is located within Zaporizhzhia city, very convenient to access from the city center by walking, public transport, or taxi.",
     "cycling": "Cycling",
-    "cyclingDesc": "Odesa has a certain number of bicycle lanes, and cycling is also a good choice for exploring the city.",
+    "cyclingDesc": "Zaporizhzhia has a certain number of bicycle lanes, and cycling is also a good choice for exploring the city.",
     "tips": "Travel Tips",
-    "tipsDesc": "Odesa is an important port city in Ukraine, with rich historical culture and beautiful natural landscapes, making it an ideal starting point for exploring southern Ukraine."
+    "tipsDesc": "Zaporizhzhia is a major city in southeastern Ukraine, featuring a deep Cossack historical heritage and beautiful Dnipro River landscapes."
   },
   "route": {
     "title": "Visiting Route",
-    "overview": "Odesa City Walking Route",
+    "overview": "Zaporizhzhia City Walking Route",
     "steps": [
-      "Arrive at Diukivskyi Sad and enjoy the tranquility and nature of the park",
+      "Arrive at Dubovyy Hay and enjoy the tranquility and nature of the park",
       "Stroll along the tree-lined paths within the park and feel the freshness of the green oxygen bar",
-      "Head to central Odesa and visit famous attractions such as Odesa Opera and Ballet Theater",
-      "Walk along Odesa's seaside boulevard (Primorsky Boulevard) and enjoy the Black Sea scenery",
-      "Visit Odesa's famous Catacombs Museum",
+      "Head to Khortytsia Island to explore the history of Ukrainian Cossacks",
+      "Visit the local Cossack history museum to deeply understand the region's cultural heritage",
+      "Tour the Dnipro Hydroelectric Station (DniproHES) and admire this magnificent industrial architecture",
       "Taste traditional Ukrainian cuisine at restaurants in the city center"
     ],
     "supplements": [
       "The park is a public space, free and open all day, no reservations needed",
-      "Parking in Odesa city is limited, it is recommended to park in designated public parking lots",
-      "It is recommended to explore central Odesa on foot or by public transport"
+      "Parking in Zaporizhzhia city is limited, it is recommended to park in designated public parking lots",
+      "It is recommended to explore central Zaporizhzhia on foot or by public transport"
     ],
     "supplementsTitle": "Visiting Notes"
   },
@@ -156,16 +158,16 @@
         "desc": "Capture the rich greenery and flowers in the park, showcasing natural beauty"
       },
       {
-        "name": "Abandoned Buildings & Ponds",
-        "desc": "Capture the grand abandoned buildings with a sense of historical vicissitudes and the tranquil ponds, perfect for ruin-style or retro portrait photography"
+        "name": "Lake Views & Amusement Rides",
+        "desc": "Capture the lake views within the park and the iconic Ferris wheel/amusement rides"
       }
-    ], 
+    ],
     "tips": "Photography Tips",
-    "tipsContent": "Spring and autumn are the most beautiful seasons for Diukivskyi Sad, with lush greenery, making them the best timing for photography."
+    "tipsContent": "Spring and autumn are the most beautiful seasons for Dubovyy Hay, with lush greenery, making them the best timing for photography."
   },
   "gallery": {
     "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Diukivskyi Sad",
+    "subtitle": "Charming Scenery of Dubovyy Hay",
     "captions": [
       "Park Panorama",
       "Tree-Lined Path",
@@ -241,7 +243,7 @@
         "name": "Mariia Hrytsenko",
         "date": "2 months ago",
         "rating": 5,
-        "text": "A hidden gem park in Odesa! Although not as famous as the large parks in the city center, it's more peaceful and natural. Very suitable for those wanting to escape the city noise."
+        "text": "A hidden gem park in Zaporizhzhia! Although not as famous as the large parks in the city center, it's more peaceful and natural. Very suitable for those wanting to escape the city noise."
       }
     ]
   },
@@ -375,7 +377,7 @@
     "rejectAll": "Reject All"
   },
   "officialManagement": {
-    "title": "About Diukivskyi Sad",
-    "text": "Diukivskyi Sad is an important park in Odesa, managed and maintained by the Odesa City Government."
+    "title": "About Dubovyy Hay",
+    "text": "Dubovyy Hay is an important park in Zaporizhzhia, managed and maintained by the Zaporizhzhia City Government."
   }
 }
