@@ -10,6 +10,7 @@ export default function StorySection() {
   const messages = useMessages() as any;
   const timeline: TimelineItem[] = messages?.story?.timeline || [];
   const legends: LegendItem[] = messages?.story?.legends || [];
+  const names = t.raw('names') as { title?: string; paragraph?: string } | undefined;
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -31,11 +32,39 @@ export default function StorySection() {
           {t('introTitle')}
         </p>
         <p
-          className="text-xl sm:text-2xl leading-relaxed mb-12 font-display"
+          className="text-xl sm:text-2xl leading-relaxed mb-10 font-display"
           style={{ color: 'var(--text-primary)' }}
         >
           {t('introText')}
         </p>
+
+        {/* 别名与常用叫法 */}
+        {names?.paragraph ? (
+          <div
+            className="rounded-xl p-6 mb-12 flex items-start gap-4"
+            style={{ background: 'var(--bg-tertiary)', borderLeft: '4px solid var(--accent)' }}
+          >
+            <svg
+              width="22"
+              height="22"
+              viewBox="0 0 24 24"
+              fill="none"
+              className="flex-shrink-0 mt-0.5"
+              style={{ color: 'var(--accent)' }}
+            >
+              <path d="M4 20h16M5 20V9l7-5 7 5v11" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+              <path d="M9.5 20v-6h5v6" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+            <div>
+              <p className="font-display text-base font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>
+                {names.title}
+              </p>
+              <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                {names.paragraph}
+              </p>
+            </div>
+          </div>
+        ) : null}
 
         {/* 时间线 */}
         <h3 className="font-display text-xl sm:text-2xl font-semibold mb-8" style={{ color: 'var(--text-primary)' }}>

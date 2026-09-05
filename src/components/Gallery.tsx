@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { MAPS_SHARE_URL } from '@/lib/geo';
 
 const photoFiles = [
   'dubovyy-hay (1).jpg',
@@ -28,15 +29,19 @@ const photoFiles = [
 export default function Gallery() {
   const t = useTranslations('gallery');
   const captions = t.raw('captions') as string[];
+  const altBase = t.raw('altBase') as string | undefined;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(true);
 
-  const photos = photoFiles.map((file, i) => ({
-    src: `/gallery/${file}`,
-    thumb: `/gallery/${file.replace(/\.jpg$/i, '-thumb.jpg')}`,
-    alt: captions?.[i] || `Dubovyy Hay ${i + 1}`,
-  }));
+  const photos = photoFiles.map((file, i) => {
+    const caption = captions?.[i] || `Dubovyy Hay ${i + 1}`;
+    return {
+      src: `/gallery/${file}`,
+      thumb: `/gallery/${file.replace(/\.jpg$/i, '-thumb.jpg')}`,
+      alt: altBase ? `${altBase} — ${caption}` : caption,
+    };
+  });
 
   const visiblePhotos = photos;
 
@@ -94,7 +99,7 @@ export default function Gallery() {
 
             <div className="flex flex-col items-center mt-8 gap-4">
               <a
-                href="https://maps.app.goo.gl/9xgRoAnV8j38dLpGA"
+                href={MAPS_SHARE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from '@/lib/site';
 
 export async function generateMetadata({
   params,
@@ -8,23 +9,16 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const route = '/terms-of-service';
+  const selfUrl = localeUrl(locale, route);
+  const languages: Record<string, string> = {};
+  for (const l of SITE_LOCALES) languages[l] = localeUrl(l, route);
+  languages['x-default'] = localeUrl(DEFAULT_LOCALE, route);
 
   return {
     alternates: {
       canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      languages,
     },
   };
 }

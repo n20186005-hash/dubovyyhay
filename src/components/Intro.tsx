@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
@@ -6,6 +7,7 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const breadcrumbs: string[] = messages?.intro?.breadcrumb || [];
 
   return (
     <section className="section-padding">
@@ -19,11 +21,35 @@ export default function Intro() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
         </p>
+
+        {/* 实体语义绑定：全称=俗称等位声明 + 地理层级 */}
+        <div
+          className="rounded-xl p-6 sm:p-7 mb-12"
+          style={{ background: 'var(--bg-tertiary)', borderLeft: '4px solid var(--accent)' }}
+        >
+          <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('summary')}
+          </p>
+          <div className="flex flex-wrap items-center gap-x-2 gap-y-1.5 mt-5 text-sm font-medium" style={{ color: 'var(--text-secondary)' }}>
+            {breadcrumbs.map((crumb, i) => (
+              <Fragment key={i}>
+                <span style={{ color: i === breadcrumbs.length - 1 ? 'var(--accent)' : 'var(--text-secondary)' }}>
+                  {crumb}
+                </span>
+                {i < breadcrumbs.length - 1 && (
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" strokeWidth="2.5">
+                    <polyline points="9 18 15 12 9 6" />
+                  </svg>
+                )}
+              </Fragment>
+            ))}
+          </div>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div

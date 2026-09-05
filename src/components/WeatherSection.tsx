@@ -104,9 +104,6 @@ export default async function WeatherSection({ locale }: { locale: string }) {
   const minToday = daily.temperature_2m_min[0];
   const adviceKey = pickAdviceKey(currentCondition, maxToday, minToday);
 
-  const now = new Date();
-  const currentTime = formatTime(locale, now);
-
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-5xl mx-auto">
@@ -130,15 +127,12 @@ export default async function WeatherSection({ locale }: { locale: string }) {
                 <ConditionIcon type={currentCondition} color="#fff" size={40} />
               </div>
               <div>
-                <div className="flex items-baseline gap-2">
-                  <span
-                    className="font-display text-6xl font-semibold leading-none"
-                    style={{ color: 'var(--text-primary)' }}
-                  >
-                    {Math.round(current.temperature_2m)}°
-                  </span>
-                  <span style={{ color: 'var(--text-muted)' }}>{currentTime}</span>
-                </div>
+                <span
+                  className="font-display text-6xl font-semibold leading-none"
+                  style={{ color: 'var(--text-primary)' }}
+                >
+                  {Math.round(current.temperature_2m)}°
+                </span>
                 <p className="mt-2 text-lg" style={{ color: 'var(--text-secondary)' }}>
                   {conditionText(currentCondition)} · {t('feels')} {Math.round(current.apparent_temperature)}°
                 </p>
@@ -273,10 +267,6 @@ function formatDate(locale: string, dateStr: string) {
   return new Intl.DateTimeFormat(locale, { month: 'numeric', day: 'numeric' }).format(
     new Date(`${dateStr}T12:00:00`),
   );
-}
-
-function formatTime(locale: string, date: Date) {
-  return new Intl.DateTimeFormat(locale, { hour: '2-digit', minute: '2-digit' }).format(date);
 }
 
 function ConditionIcon({ type, color, size }: { type: string; color: string; size: number }) {

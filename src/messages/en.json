@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dubovyy Hay | Zaporizhzhia, Ukraine",
-    "description": "Explore the complete guide to Dubovyy Hay in Zaporizhzhia, Ukraine. Discover this beautiful park and its surrounding attractions."
+    "title": "Dubovyy Hay (Dubovka) Park in Zaporizhzhia — Photos, Address & Rides",
+    "description": "Dubovyy Hay (locally 'Dubovka') park in Zaporizhzhia: shady alleys, lakes and bridges, rides. Free entry, open 24/7. Address, photos, history and directions."
   },
   "header": {
     "home": "Home",
@@ -11,16 +11,17 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Dubovyy Hay",
+    "title": "Dubovyy Hay (Дубовий Гай) Park — Zaporizhzhia",
     "subtitle": "Zaporizhzhia · Ukraine",
     "rating": "4.2",
-    "reviewCount": "11,842",
+    "reviewCount": "11,833",
     "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "Dubovyy Hay — main view in Zaporizhzhia, Ukraine"
   },
   "intro": {
     "title": "Explore Dubovyy Hay",
-    "description": "Dubovyy Hay (Дубовий Гай (Dubovyy Hay)) is located in Zaporizhzhia, Zaporizhzhia Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Zaporizhzhia, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Zaporizhzhia.",
+    "description": "Dubovyy Hay (Дубовий Гай) is located in Zaporizhzhia, Zaporizhzhia Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Zaporizhzhia, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Zaporizhzhia.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -38,7 +39,14 @@
         "Historical Ruins & Water Features: The park preserves grand abandoned buildings and tranquil ponds, adding a unique retro atmosphere to this urban oasis.",
         "Convenient Location: Located within Zaporizhzhia city, easily accessible by walking or public transportation."
       ]
-    }
+    },
+    "summary": "Dubovyy Hay, known officially as «Дубовий Гай», is Zaporizhzhia’s main city park (Zaporizhzhia Oblast, Ukraine). Tree-lined paths, lakes with bridges, concert areas and a small amusement park make it a favourite year-round spot for locals and visitors. This guide helps you plan your visit to Dubovyy Hay in Zaporizhzhia.",
+    "breadcrumb": [
+      "Dubovyy Hay (Дубовий Гай)",
+      "Zaporizhzhia",
+      "Zaporizhzhia Oblast",
+      "Ukraine"
+    ]
   },
   "knowledge": {
     "title": "Discover the Charm of Dubovyy Hay",
@@ -190,7 +198,8 @@
       "Natural Beauty"
     ],
     "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "showAllPhotos": "Show All Photos",
+    "altBase": "Dubovyy Hay (Dubovka) Park in Zaporizhzhia"
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -250,7 +259,14 @@
   "mapSection": {
     "title": "Transportation Guide",
     "subtitle": "вулиця Глісерна, 1, Zaporizhzhia, Zaporizhia Oblast, Ukraine 69000",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "nearbyTitle": "Nearby landmarks",
+    "nearbyText": "When visiting Dubovyy Hay, it is easy to combine your trip with other well-known sights of Zaporizhzhia:",
+    "landmarks": [
+      "Khortytsia Island",
+      "Zaporizhzhia Oak",
+      "DniproHES dam"
+    ]
   },
   "footer": {
     "rights": "© 2026 Dubovyy Hay. All rights reserved.",
@@ -280,7 +296,8 @@
         "url": "https://zp.gov.ua/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "All images on this website remain the property of their respective authors/photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -433,7 +450,11 @@
         "title": "The watch-post in the treetops",
         "text": "Another tale from before the revolution says that workers held their May outings (mayivka) here and posted lookouts in the oaks to raise the alarm if gendarmes or raids appeared. True or not, these stories add a touch of legend to the old oaks."
       }
-    ]
+    ],
+    "names": {
+      "title": "Official name and local nicknames",
+      "paragraph": "Locals often simply call the park “Dubovka”. In Russian it is also known as «Дубовый Гай» or «Дубовая роща», while English guidebooks and maps mostly use Dubovyy Hay or Dubovka."
+    }
   },
   "nature": {
     "title": "Nature & Wildlife",
@@ -526,5 +547,53 @@
     },
     "note": "Forecast information on this website is refreshed regularly and is intended for general reference; for important plans please rely on the official forecast issued by the local meteorological service.",
     "unavailable": "Weather information is temporarily unavailable. Please refresh the page later or check the latest official local forecast."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the questions visitors most often ask about Dubovyy Hay.",
+    "items": [
+      {
+        "q": "Do I need a ticket to enter Dubovyy Hay park?",
+        "a": "No. Dubovyy Hay is an open city park: entry is free and the park is open 24 hours. Only rides and on-site services (e.g. paid parking) are charged separately."
+      },
+      {
+        "q": "What rides and facilities are in the park?",
+        "a": "The park has an amusement area with a well-known Ferris wheel, as well as lakes with bridges, children’s and sports playgrounds. Always check the current list and opening hours of the rides before your visit."
+      },
+      {
+        "q": "How do I get to Dubovyy Hay park?",
+        "a": "The park lies on the Dnipro riverfront at Hliserna Street, 1 (Plus Code: R56C+75 Zaporizhzhia). Detailed options — by public transport, car or on foot — are gathered in the Transport section of this page."
+      },
+      {
+        "q": "Is there parking near the park?",
+        "a": "On-street parking in Zaporizhzhia is generally limited. There are public spots, partly paid, near the park and along the embankment; they fill up on weekends and holidays, so public transport or a taxi is often easier."
+      },
+      {
+        "q": "Is the park suitable for children?",
+        "a": "Yes, it is a popular family destination with playgrounds, rides, open lawns and cafés. Check current pet rules and facility opening hours on site."
+      },
+      {
+        "q": "When is the best time to visit Dubovyy Hay?",
+        "a": "The park is lovely year-round: green and lively by the lakes in spring and summer, open for relaxed walks in winter. Expect crowds during holiday events."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & official info about Dubovyy Hay",
+    "text": "This page is compiled from open and official sources. Ratings and review counts are taken from the public Google listing of the place.",
+    "links": [
+      {
+        "name": "Google Maps — Dubovyy Hay (Дубовий Гай)",
+        "url": "https://maps.app.goo.gl/WoyEp1gowNMDoEnNA"
+      },
+      {
+        "name": "State Agency for Tourism Development of Ukraine",
+        "url": "https://www.tourism.gov.ua/"
+      },
+      {
+        "name": "Zaporizhzhia City Council",
+        "url": "https://zp.gov.ua/"
+      }
+    ]
   }
 }
