@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dubovyyhay",
+  "compatibility_date": "2026-09-03",
+  // 本项目为 Next.js 纯静态导出（next.config.ts: output:'export'，产物在 ./out）。
+  // 有本配置后 wrangler deploy 不会再自动识别为 "Next.js SSR" 而触发 OpenNext 迁移，
+  // 而是直接以 Cloudflare Workers Static Assets 形式托管 out/，无需 Worker 运行时 / main 入口。
+  "assets": {
+    "directory": "./out",
+    // 默认值；让 /zh、/zh/cookie-settings 这类无尾斜杠 URL 命中对应的 *.html 导出文件
+    "html_handling": "auto-trailing-slash",
+    // 未命中时返回 out/404.html（由 src/app/not-found.tsx 生成），保持自定义 404
+    "not_found_handling": "404-page"
+  }
+}
