@@ -379,5 +379,152 @@
   "officialManagement": {
     "title": "About Dubovyy Hay",
     "text": "Dubovyy Hay is an important park in Zaporizhzhia, managed and maintained by the Zaporizhzhia City Government."
+  },
+  "story": {
+    "title": "History & Local Legends",
+    "subtitle": "Behind every old oak lies a century of the city’s memory",
+    "introTitle": "Why is it called “Oak Grove”?",
+    "introText": "“Dubovyi Hai” literally means “oak grove” in Ukrainian. As early as the 18th century, the left bank of the Dnipro here was covered with vast oak woods stretching toward the wide floodplain known as the Velykyi Luh (Great Meadow) — lands closely tied to the history of the Zaporozhian Cossacks. In Ukrainian culture the oak stands for strength and watchfulness, so long before the park existed, this land was already part of Zaporizhzhia’s living memory.",
+    "timelineTitle": "Timeline: from a riverside oak wood to the city’s green heart",
+    "timeline": [
+      {
+        "period": "Before the 19th century",
+        "title": "Ancient oaks by the river",
+        "text": "This area was once an old oak woodland on the floodplain of the Dnipro. In Cossack times the oaks supplied timber and fuel, and served as natural landmarks where people rested and gathered."
+      },
+      {
+        "period": "19th – early 20th century",
+        "title": "A place for local festivities",
+        "text": "From the 19th century, the grassy clearings under the oaks became a favourite spot for picnics and celebrations. May outings and family gatherings made the old trees silent witnesses of many generations."
+      },
+      {
+        "period": "1956",
+        "title": "The beginnings of the green zone",
+        "text": "In 1956 the area began to be maintained as an urban green space, preparing the ground for the park that would follow."
+      },
+      {
+        "period": "1 May 1959",
+        "title": "The Central Park of Culture and Rest opens",
+        "text": "The park officially opened on 1 May 1959 with a total area of more than 57 hectares — roughly the size of 80 football pitches. Over the following decades, tree-lined alleys, fountains and gazebos in the style of the era, an open-air cinema and a main stage were built, making the park a shared leisure memory of generations of Zaporizhzhia residents."
+      },
+      {
+        "period": "1950s",
+        "title": "A star of the silver screen",
+        "text": "In the 1950s, the classic Soviet film “Spring on Zarechnaya Street” (Vesna na Zarechnoy ulitse) was shot here. After the film was released, the name of this oak grove travelled across the whole country on the screen."
+      },
+      {
+        "period": "Today",
+        "title": "A walkable green oasis",
+        "text": "Today the park is managed as a pedestrian-friendly space: vehicle access is restricted, accessibility and children’s facilities keep improving, and festivals, sports events, exhibitions and family activities are held all year round. It is both the “green lungs” of Zaporizhzhia and a living room for its people in every season."
+      }
+    ],
+    "legendsTitle": "Legends passed from mouth to mouth",
+    "legendsNote": "The stories below belong to Zaporizhzhia’s local folklore and oral tradition. Handed down over many years, they are not necessarily supported by formal historical records, so we suggest enjoying them as cultural background for your visit.",
+    "legends": [
+      {
+        "title": "Oaks planted by the Cossacks",
+        "text": "Tradition says the oaks were planted by the Zaporozhian Cossacks themselves, to remember the Zaporozhian Sich that was destroyed in the turmoil of war. People say the Cossacks planted the trees in tears, and that is why the oaks took root so deeply and never stopped growing — guarding the land’s memory of freedom."
+      },
+      {
+        "title": "The “Makhno Oak”",
+        "text": "At the edge of the park there once stood a famous old oak with iron nails, bolts and spikes embedded in its trunk. Folklore links the tree to the military figure Nestor Makhno: his followers supposedly used the iron pieces to climb into the crown and set an ambush. The old tree died and was removed in the 1970s, yet the story still lives on locally."
+      },
+      {
+        "title": "The watch-post in the treetops",
+        "text": "Another tale from before the revolution says that workers held their May outings (mayivka) here and posted lookouts in the oaks to raise the alarm if gendarmes or raids appeared. True or not, these stories add a touch of legend to the old oaks."
+      }
+    ]
+  },
+  "nature": {
+    "title": "Nature & Wildlife",
+    "subtitle": "A 57-hectare green classroom with the city’s most vivid seasons",
+    "intro": "The park covers more than 57 hectares, about 5 of which belong to the nature reserve fund. Its old oaks are said to reach about 300 years of age, making the park one of the most ecologically valuable green spaces in Zaporizhzhia and a natural classroom for urban nature.",
+    "highlightsTitle": "What to look for",
+    "highlights": [
+      {
+        "title": "Old oaks with stories",
+        "text": "The oaks gave the grove its name. Alongside ancient trees of 100–200 years or more, the park mixes many species of trees, shrubs and wildflowers, so every season — from fresh spring green to golden autumn leaves — brings its own scenery."
+      },
+      {
+        "title": "Artificial lakes and two bridges",
+        "text": "The park has an artificial lake crossed by two footbridges. In the warm months you can hire a pedal boat and glide slowly across the water, with weeping willows and mirror reflections making a classic photo scene."
+      },
+      {
+        "title": "A small river along the edge",
+        "text": "The Mokra Moskovka river winds along one side of the park. Its wetland banks create a unique riverside habitat and keep a wild touch in the very heart of the city."
+      },
+      {
+        "title": "A “birdwatching point” in the city",
+        "text": "Tall crowns and calm water attract many birds. Ducks and geese paddle by the ponds, and the treetops ring with birdsong — a lovely place to meet urban wildlife up close."
+      }
+    ],
+    "note": "Please enjoy nature responsibly: do not disturb the waterbirds or throw litter into the lake; if you feed the birds, choose suitable food or follow the park’s guidance so this urban oasis stays safe for everyone."
+  },
+  "amenities": {
+    "title": "Practical Facilities",
+    "subtitle": "Restrooms, parking, dining, stays, shops, fuel & charging — check before you go",
+    "intro": "Dubovyi Hai is an open, free-to-enter park centred on walking trails and greenery. Below we summarise, by category, the facilities you may need during your visit to help you plan with ease.",
+    "items": {
+      "toilet": {
+        "title": "Public Restrooms",
+        "text": "Public restrooms are available near the main entrances, the amusement area and the event zones. They can get busy on holidays and weekends, so the facilities by the entrances are a good first choice — please also mind their opening hours."
+      },
+      "parking": {
+        "title": "Parking",
+        "text": "Limited public parking is available on the streets near the park and along the riverside; some spaces are paid. Spaces fill up quickly on weekends and holidays, so arrive early or consider public transport or a taxi."
+      },
+      "dining": {
+        "title": "Dining",
+        "text": "Inside the park you will find cafés and food kiosks offering snacks, hot and cold drinks and light meals. The city centre around the park has restaurants serving traditional Ukrainian cuisine, plus various other cuisines and street food. Always check the current opening status on site."
+      },
+      "hotel": {
+        "title": "Accommodation",
+        "text": "As an open public space, the park itself offers no overnight stays. For an overnight trip, choose among hotels, guesthouses and short-term apartments in Zaporizhzhia city centre and nearby areas; reaching the park from there by taxi or public transport is easy."
+      },
+      "shopping": {
+        "title": "Supermarkets & Convenience Stores",
+        "text": "Supermarkets, convenience stores and pharmacies can be found near the park and along the city’s main streets, so you can easily buy drinking water, snacks or essentials. Banks and ATMs are available in the city centre if you need cash or currency exchange."
+      },
+      "fuel": {
+        "title": "Fuel & EV Charging",
+        "text": "Self-drive visitors can find petrol stations along the city’s main roads, and public charging points for electric cars are gradually increasing. Before you leave, plan a route with a convenient station using a map app and confirm it is currently open."
+      }
+    },
+    "disclaimer": "A note on neutrality: this website is a non-profit science and travel information project. It only gives directional tips by facility type and does not recommend or endorse any particular business, brand or service. Availability, prices and opening hours may change at any time, so please rely on the actual on-site information."
+  },
+  "weather": {
+    "title": "Weather & Trip Tips",
+    "subtitle": "Around Dubovyi Hai Park · current conditions and forecast",
+    "currentTitle": "Right now",
+    "forecastTitle": "5-day forecast",
+    "today": "Today",
+    "feels": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipNow": "Precipitation",
+    "precipChance": "Chance of rain",
+    "tempMax": "Max",
+    "tempMin": "Min",
+    "condition": {
+      "clear": "Clear",
+      "partly": "Partly cloudy",
+      "cloud": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm"
+    },
+    "advice": {
+      "clear": "Sunny weather — great for a woodland walk or a picnic.",
+      "warm": "Quite warm — remember sun protection and stay hydrated.",
+      "cold": "Quite cold — wrap up warm before you head out.",
+      "umbrella": "Precipitation is possible — an umbrella may come in handy.",
+      "mild": "Mild weather — a pleasant day for outdoor activities."
+    },
+    "note": "Forecast information on this website is refreshed regularly and is intended for general reference; for important plans please rely on the official forecast issued by the local meteorological service.",
+    "unavailable": "Weather information is temporarily unavailable. Please refresh the page later or check the latest official local forecast."
   }
 }
