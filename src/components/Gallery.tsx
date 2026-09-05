@@ -34,6 +34,7 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
+    thumb: `/gallery/${file.replace(/\.jpg$/i, '-thumb.jpg')}`,
     alt: captions?.[i] || `Dubovyy Hay ${i + 1}`,
   }));
 
@@ -75,11 +76,12 @@ export default function Gallery() {
                   onClick={() => openLightbox(i)}
                 >
                   <img
-                    src={photo.src}
+                    src={photo.thumb}
                     alt={photo.alt}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">

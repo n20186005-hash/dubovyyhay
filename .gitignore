@@ -67,3 +67,6 @@ out/
 # Temporary files
 *.tmp
 *.temp
+
+# Backup of original uncompressed images
+public/gallery/_original/
