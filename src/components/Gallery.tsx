@@ -32,7 +32,6 @@ export default function Gallery() {
   const altBase = t.raw('altBase') as string | undefined;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
-  const [showAll, setShowAll] = useState(true);
 
   const photos = photoFiles.map((file, i) => {
     const caption = captions?.[i] || `Dubovyy Hay ${i + 1}`;
@@ -42,8 +41,6 @@ export default function Gallery() {
       alt: altBase ? `${altBase} — ${caption}` : caption,
     };
   });
-
-  const visiblePhotos = photos;
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
@@ -74,7 +71,7 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {visiblePhotos.map((photo, i) => (
+              {photos.map((photo, i) => (
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}

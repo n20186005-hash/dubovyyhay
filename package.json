@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "verify:export": "node scripts/verify-export.mjs"
   },
   "dependencies": {
     "next": "^15.1.0",

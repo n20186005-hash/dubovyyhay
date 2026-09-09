@@ -1,6 +1,6 @@
 /* Dubovyy Hay — simple cache-first service worker (static export friendly) */
-const VERSION = 'dubovyy-hay-v1';
-const OFFLINE_FALLBACK = '/uk/';
+const VERSION = 'dubovyy-hay-v2';
+const OFFLINE_FALLBACK = '/zh/';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(

@@ -1,8 +1,8 @@
 import { getTranslations } from 'next-intl/server';
 
-// 杜博维盖公园（Дубовий Гай）坐标：47.8081, 35.169
-const LAT = '47.8081';
-const LON = '35.1690';
+// 杜博维盖公园（Дубовий Гай）坐标（与 Google 列表一致）：47.8089693, 35.1657067
+const LAT = '47.8089693';
+const LON = '35.1657067';
 const FORECAST_DAYS = 5;
 const REVALIDATE_SECONDS = 1800; // 数据缓存时间
 

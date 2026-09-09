@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
 import { SITE_URL, SITE_NAME } from '@/lib/site';
+import { MAPS_SHARE_URL } from '@/lib/geo';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -100,7 +101,7 @@ export default async function LocaleLayout({
   const enUrl = `${baseUrl}/en`;
   const ruUrl = `${baseUrl}/ru`;
   const ukUrl = `${baseUrl}/uk`;
-  const mapsShareUrl = 'https://maps.app.goo.gl/WoyEp1gowNMDoEnNA';
+  const mapsShareUrl = MAPS_SHARE_URL;
   const officialTourismUrl = 'https://www.tourism.gov.ua/';
 
   let selfUrl = zhUrl;
@@ -124,7 +125,7 @@ export default async function LocaleLayout({
     telephone: String(messages?.basicInfo?.phoneValue || '').replace(/\s+/g, ''),
     address: {
       '@type': 'PostalAddress',
-      streetAddress: String(messages?.basicInfo?.addressValue || '').split(',')[0]?.trim() || '',
+      streetAddress: 'вулиця Глісерна, 1',
       addressLocality: 'Zaporizhzhia',
       addressRegion: 'Zaporizhzhia Oblast',
       postalCode: '69000',
@@ -139,7 +140,20 @@ export default async function LocaleLayout({
     sameAs: [mapsShareUrl, officialTourismUrl],
     isAccessibleForFree: true,
     publicAccess: true,
-    openingHours: 'Mo-Su 00:00-24:00',
+    openingHoursSpecification: {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: [
+        'Monday',
+        'Tuesday',
+        'Wednesday',
+        'Thursday',
+        'Friday',
+        'Saturday',
+        'Sunday',
+      ],
+      opens: '00:00',
+      closes: '23:59',
+    },
     ...(messages?.hero?.rating
       ? {
           aggregateRating: {
@@ -173,9 +187,7 @@ export default async function LocaleLayout({
     <html lang={langMap[locale] || 'zh-CN'} suppressHydrationWarning>
       <head>
         <link rel="preload" as="image" href="/gallery/dubovyy-hay%20(1).jpg" fetchPriority="high" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
-        {/* Google Analytics 4 + Consent Mode v2（默认拒绝；仅当 cookiePrefs.analytics 授权后放行） */}
+        {/* Google Analytics 4 + Consent Mode v2（默认拒绝；仅当 cookiePrefs.analytics 授权后按需加载 gtag.js） */}
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -189,29 +201,32 @@ export default async function LocaleLayout({
                 functionality_storage: 'denied',
                 wait_for_update: 500
               });
-              try {
-                var prefs = JSON.parse(localStorage.getItem('cookiePrefs') || 'null');
-                if (prefs) {
-                  gtag('consent', 'update', {
-                    ad_storage: prefs.marketing ? 'granted' : 'denied',
-                    ad_user_data: prefs.marketing ? 'granted' : 'denied',
-                    ad_personalization: prefs.marketing ? 'granted' : 'denied',
-                    analytics_storage: prefs.analytics ? 'granted' : 'denied',
-                    functionality_storage: prefs.preferences ? 'granted' : 'denied'
-                  });
+              window.__gtagLoaded = false;
+              window.__applyConsent = function () {
+                var prefs = null;
+                try { prefs = JSON.parse(localStorage.getItem('cookiePrefs') || 'null'); } catch (e) {}
+                var analyticsOk = !!(prefs && prefs.analytics);
+                var marketingOk = !!(prefs && prefs.marketing);
+                var functionalityOk = !!(prefs && prefs.preferences);
+                gtag('consent', 'update', {
+                  ad_storage: marketingOk ? 'granted' : 'denied',
+                  ad_user_data: marketingOk ? 'granted' : 'denied',
+                  ad_personalization: marketingOk ? 'granted' : 'denied',
+                  analytics_storage: analyticsOk ? 'granted' : 'denied',
+                  functionality_storage: functionalityOk ? 'granted' : 'denied'
+                });
+                if (analyticsOk && !window.__gtagLoaded) {
+                  window.__gtagLoaded = true;
+                  var s = document.createElement('script');
+                  s.async = true;
+                  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP';
+                  document.head.appendChild(s);
+                  window.dataLayer.push(['js', new Date()]);
+                  window.dataLayer.push(['config', 'G-HXM22WWPKP']);
                 }
-              } catch(e) {}
-            `,
-          }}
-        />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag() { dataLayer.push(arguments); }
-              gtag('js', new Date());
-              gtag('config', 'G-HXM22WWPKP');
+              };
+              window.__applyConsent();
+              window.addEventListener('consent-updated', window.__applyConsent);
             `,
           }}
         />

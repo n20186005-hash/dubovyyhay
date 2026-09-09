@@ -54,10 +54,7 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/* 
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
+          {/* 内嵌地图保留 Google 版权/归属标识，符合 Google Maps API 使用条款 */}
           <iframe
             src={MAPS_EMBED_SRC}
             width="100%"
