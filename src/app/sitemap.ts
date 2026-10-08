@@ -7,7 +7,7 @@ export const dynamic = 'force-static';
 const LAST_MODIFIED = '2026-09-09';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const routes = ['', '/attractions', '/how-to-get', '/photos', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
   const entries: MetadataRoute.Sitemap = [];
 

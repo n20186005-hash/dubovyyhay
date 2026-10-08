@@ -17,6 +17,7 @@ import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
 import MapEmbed from '@/components/MapEmbed';
 import SourcesSection from '@/components/SourcesSection';
+import TopicLinks from '@/components/TopicLinks';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -46,6 +47,7 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <FAQSection />
+        <TopicLinks />
         <MapEmbed />
       </main>
       <SourcesSection />

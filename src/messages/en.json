@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dubovyy Hay (Dubovka) Park in Zaporizhzhia — Photos, Address & Rides",
-    "description": "Dubovyy Hay (locally 'Dubovka') park in Zaporizhzhia: shady alleys, lakes and bridges, rides. Free entry, open 24/7. Address, photos, history and directions."
+    "title": "Dubovka (Dubovyy Hay) Park in Zaporizhzhia — Rides, Photos & How to Get There",
+    "description": "Dubovyy Hay (locally 'Dubovka') in Zaporizhzhia: shady alleys, lakes and rides. Free 24/7 entry. Address, photos, rides info and how to get there."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Dubovyy Hay (Дубовий Гай) Park — Zaporizhzhia",
     "subtitle": "Zaporizhzhia · Ukraine",
     "rating": "4.2",
-    "reviewCount": "11,833",
+    "reviewCount": "11,829",
     "hours": "Open 24 Hours",
     "openMaps": "View Location",
     "imageAlt": "Dubovyy Hay — main view in Zaporizhzhia, Ukraine"
@@ -595,5 +595,65 @@
         "url": "https://zp.gov.ua/"
       }
     ]
+  },
+  "topics": {
+    "exploreMore": "Explore more guides",
+    "attractions": {
+      "title": "Rides & Attractions at Dubovyy Hay",
+      "subtitle": "What's open and what's temporarily closed — checked October 2026",
+      "intro": "Dubovyy Hay (locally 'Dubovka') has a dedicated amusement area with a Ferris wheel, children's and summer carousels. Some municipal rides run seasonally or are temporarily paused for permits or maintenance. Here is the current picture — but confirm on site before your visit.",
+      "updated": "Checked: October 2026",
+      "sectionsTitle": "What to know about the rides",
+      "sections": [
+        { "title": "Ferris wheel and classics", "text": "The park's landmark is its Ferris wheel, overlooking the lake and tree-lined paths. Nearby you'll find children's carousels and a small roller coaster." },
+        { "title": "Family and kids' zones", "text": "There are playgrounds with swings and trampolines for younger visitors. Weekends can mean longer queues — a weekday visit is calmer." },
+        { "title": "Safety and air-raid alerts", "text": "During air-raid alerts the rides stop operating. Follow official warnings and the park administration's instructions." }
+      ],
+      "faqTitle": "Common questions about the rides",
+      "faq": [
+        { "q": "How much do the attractions cost at Dubovyy Hay?", "a": "Park entry is free; rides are charged separately per attraction. Current prices are posted at the on-site ticket booth and may change." },
+        { "q": "Which rides are operating now?", "a": "As of October 2026, some municipal rides have resumed while a few remain temporarily paused for permits or servicing. Confirm the current list on site before visiting." },
+        { "q": "Can you rent a boat on the lake?", "a": "In the warm season you can rent a catamaran or rowboat by the artificial pond. Availability depends on weather and season." },
+        { "q": "Are the rides suitable for children?", "a": "Yes — there are children's playgrounds and family rides. Age limits and supervision notes are posted at each ride." }
+      ]
+    },
+    "howToGet": {
+      "title": "How to Get to Dubovyy Hay Park",
+      "subtitle": "Address, public transport and travel options",
+      "intro": "The park is in Zaporizhzhia at 1 Hliserna Street (Plus Code R56C+75). You can arrive on foot, by public transport, by taxi or by car.",
+      "updated": "Checked: October 2026",
+      "sectionsTitle": "Ways to get there",
+      "sections": [
+        { "title": "By public transport", "text": "Buses and trams run to the park from across Zaporizhzhia. Check routes in the local public-transport apps." },
+        { "title": "By car and taxi", "text": "From the city centre the park is a short taxi ride. Paid public parking is available near the park and along the embankment; weekends fill up fast." },
+        { "title": "On foot and by bike", "text": "The park pairs well with a walk through central Zaporizhzhia. The city has bike lanes, and a bicycle is a pleasant way to explore." }
+      ],
+      "faqTitle": "Common questions about getting here",
+      "faq": [
+        { "q": "Where exactly is Dubovyy Hay park?", "a": "Address: 1 Hliserna Street, Zaporizhzhia, Zaporizhzhia Oblast, Ukraine, 69000. Coordinates about 47.8090, 35.1657 (Plus Code R56C+75)." },
+        { "q": "What is the nearest airport?", "a": "Zaporizhzhia International Airport (OZH). Check current flight availability in advance given the ongoing situation." },
+        { "q": "Is there parking near the park?", "a": "Yes, public parking is available nearby, part of it paid. On weekends and holidays spaces run out — public transport or taxi is easier." },
+        { "q": "How long from the city centre?", "a": "Usually 15–25 minutes by transport or taxi from central Zaporizhzhia; on foot about 30–40 minutes depending on the route." }
+      ]
+    },
+    "photos": {
+      "title": "Photos & Views of Dubovyy Hay Park",
+      "subtitle": "Where to photograph and when the light is best",
+      "intro": "The park is a favourite for photos: shady alleys, the lake with its bridges and the Ferris wheel make great shots of every kind. Here are the best spots and tips.",
+      "updated": "Checked: October 2026",
+      "sectionsTitle": "Best photo spots",
+      "sections": [
+        { "title": "Entrance and main avenue", "text": "Capture the landmark entrance and the lush greenery of the main avenue — a classic keepsake shot." },
+        { "title": "Lake and bridges", "text": "By the artificial pond you get weeping willows and the Ferris wheel reflected in the water. Best light is early morning and the hour before sunset." },
+        { "title": "Through the seasons", "text": "Spring and autumn bring the richest colour; winter is calm and minimal, summer lush and green." }
+      ],
+      "faqTitle": "Common questions about photos",
+      "faq": [
+        { "q": "Where can I see more photos of the park?", "a": "More visitor photos are on the Google Maps listing for 'Dubovyy Hay'. The site also has a gallery of key locations." },
+        { "q": "When is the best time to photograph?", "a": "Morning and late evening give soft light and fewer people. Spring and autumn are the most characterful seasons for landscapes." },
+        { "q": "Can I photograph the rides?", "a": "Yes, the park is public and photography is allowed. Respect other visitors and avoid staff-only areas." },
+        { "q": "Are there drone photos?", "a": "Drone flights are governed by local rules — check permits before flying." }
+      ]
+    }
   }
 }
