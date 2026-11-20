@@ -3,7 +3,7 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
-import { SITE_URL, SITE_NAME } from '@/lib/site';
+import { SITE_URL, SITE_NAME, openGraphLocale } from '@/lib/site';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -29,13 +29,6 @@ export async function generateMetadata({
   else if (locale === 'ru') selfUrl = ruUrl;
   else if (locale === 'uk') selfUrl = ukUrl;
 
-  const localeMap: Record<string, string> = {
-    'zh': 'zh_CN',
-    'en': 'en_US',
-    'ru': 'ru_RU',
-    'uk': 'uk_UA',
-  };
-
   return {
     title: messages.meta.title,
     description: messages.meta.description,
@@ -54,7 +47,7 @@ export async function generateMetadata({
       description: messages.meta.description,
       url: selfUrl,
       siteName: SITE_NAME,
-      locale: localeMap[locale] || 'zh_CN',
+      locale: openGraphLocale(locale),
       type: 'website',
       images: [
         {

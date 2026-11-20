@@ -3,8 +3,17 @@ import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from '@/lib/site';
+import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl, openGraphLocale } from '@/lib/site';
 import { nearby, nearbyPath, nearbyLocale, nearbyLabels } from '@/lib/nearby';
+
+const walkPairs = [
+  ['memorial-derevo-pamiati', 'park-metalurgiv-imeni-vitalia-sackogo'],
+  ['fontan-zhizni', 'alea-maakovskogo'],
+  ['alea-maakovskogo', 'muzei-fenomenalnoyi-sili'],
+  ['komunalnij-zaklad-kinokoncertnij-zal-im-o-dovzenka', 'zaporizhzhia-biruchiy-art-centre'],
+  ['zaporizkij-akademicnij-oblasnij-teatr-lalok', 'muzej-arhitekturi-zaporizza1'],
+  ['mogila-osipa-gladkogo', 'oleksandrivskii-skver'],
+] as const;
 
 type Props = { params: Promise<{ locale: string; slug: string }> };
 
@@ -32,7 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         ['x-default', localeUrl(DEFAULT_LOCALE, path)],
       ]),
     },
-    openGraph: { title, description: history, url: canonical, images: [{ url: image, alt: title }] },
+    openGraph: { locale: openGraphLocale(locale), title, description: history, url: canonical, images: [{ url: image, alt: title }] },
     twitter: { card: 'summary_large_image', title, description: history, images: [image] },
   };
 }
@@ -59,8 +68,18 @@ export default async function NearbyAttraction({ params }: Props) {
   const burlaiInfo = slug === 'muzey-galereya-prikladnoy-keramiki-i-zhivopisnogo-tvorchestva-ili-i-alekseya-burlay'
     ? 'https://museum-gallery.org/uk/contacts/'
     : null;
-  const visitorInfo = publishedVisitorInfo ?? burlaiInfo ?? place.managerSource ?? place.source;
-  const hours = publishedVisitorInfo ? labels.phaetonHours : burlaiInfo ? labels.burlaiHours : labels.checkHours;
+  const visitorInfo = publishedVisitorInfo ?? burlaiInfo ?? place.visitSource ?? place.managerSource ?? place.source;
+  const hours = publishedVisitorInfo ? labels.phaetonHours
+    : burlaiInfo ? labels.burlaiHours
+    : slug === 'muzej-arhitekturi-zaporizza1' ? labels.architectureHours
+    : place.bookingSource ? labels.bookHours
+    : labels.checkHours;
+  const fees = publishedVisitorInfo ? labels.phaetonFees
+    : place.bookingSource ? labels.freeTours
+    : place.group === 'culture' ? labels.venueTip
+    : labels.publicTip;
+  const pairSlugs = walkPairs.flatMap(([a, b]) => slug === a ? [b] : slug === b ? [a] : []);
+  const pairs = nearby.filter(candidate => pairSlugs.some(pairedSlug => pairedSlug === candidate.slug));
   const tip = place.group === 'culture' ? labels.venueTip : labels.arrivalTip;
   const sectionHeading = 'font-display text-2xl font-semibold mb-3';
   return (
@@ -71,7 +90,7 @@ export default async function NearbyAttraction({ params }: Props) {
           <div className="max-w-3xl mx-auto text-center">
             <a className="underline text-sm" href={home}>{labels.nearby}</a>
             <h1 className="font-display text-3xl sm:text-5xl font-bold mt-5 mb-4">{title}</h1>
-            <p className="mb-2">{type}</p>
+            <p className="mb-2">{place.tagline[language]}</p>
             <p className="mb-4">{place.displayAddress[language]}</p>
             <div className="flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm">
               <a className="underline" href="#opening-hours">{labels.hours} · {hours}</a>
@@ -106,7 +125,12 @@ export default async function NearbyAttraction({ params }: Props) {
             <dl className="grid gap-2 sm:grid-cols-[auto_1fr]">
               <dt className="font-semibold">{labels.name}</dt><dd>{title}</dd>
               <dt className="font-semibold">{labels.type}</dt><dd>{type}</dd>
+              <dt className="font-semibold">{labels.localName}</dt><dd>{language === 'uk' ? title : <a className="underline" href={map}>{labels.map}</a>}</dd>
+              <dt className="font-semibold">{labels.city}</dt><dd>{labels.cityValue}</dd>
               <dt className="font-semibold">{labels.address}</dt><dd>{place.displayAddress[language]}</dd>
+              {manager && <>
+                <dt className="font-semibold">{labels.operator}</dt><dd>{manager}</dd>
+              </>}
               {place.coordinates && <>
                 <dt className="font-semibold">{labels.location}</dt><dd><a className="underline" href={coordinateMap}>{place.coordinates}</a></dd>
               </>}
@@ -119,7 +143,8 @@ export default async function NearbyAttraction({ params }: Props) {
           </section>
           <section>
             <h2 className={sectionHeading}>{labels.fees}</h2>
-            <p>{publishedVisitorInfo ? labels.phaetonFees : place.group === 'culture' ? labels.venueTip : labels.publicTip}</p>
+            <p>{fees}</p>
+            {place.bookingSource && <a className="underline" href={place.bookingSource}>{labels.bookTours}</a>}
             {publishedVisitorInfo && <a className="underline" href={publishedVisitorInfo}>{labels.operatorRates}</a>}
           </section>
           <section>
@@ -142,6 +167,19 @@ export default async function NearbyAttraction({ params }: Props) {
               <li>{labels.start}</li>
               <li>{labels.arrive}</li>
               <li>{labels.finish}</li>
+              {pairs.map(pair => (
+                <li key={pair.slug}>
+                  {labels.pair}{' · '}
+                  <a className="underline" href={`/${locale}${nearbyPath(pair.slug)}`}>{pair.text[language][0]}</a>
+                  {' · '}
+                  <a
+                    className="underline"
+                    href={`https://www.google.com/maps/dir/?api=1&origin=${destination}&destination=${encodeURIComponent(`${pair.text.uk[0]}, ${pair.address}`)}&travelmode=walking`}
+                  >
+                    {labels.pairWalk}
+                  </a>
+                </li>
+              ))}
             </ol>
           </section>
           <section>

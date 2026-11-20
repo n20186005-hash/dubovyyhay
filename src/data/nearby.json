@@ -65,6 +65,12 @@
       "en": "Metallurgical Park, 15 Parkovyi Boulevard",
       "ru": "Парк Металлургов, Парковый бульвар, 15",
       "uk": "парк Металургів, Парковий бульвар, 15"
+    },
+    "tagline": {
+      "zh": "从纪念钟声读懂冶金公园的追思空间",
+      "en": "A bell memorial in the paths of Metallurgical Park",
+      "ru": "Колокольный мемориал среди дорожек парка Металлургов",
+      "uk": "Меморіал із дзвониками серед доріжок парку Металургів"
     }
   },
   {
@@ -133,6 +139,12 @@
       "en": "11 Staroho Redutu Street",
       "ru": "Улица Старого Редута, 11",
       "uk": "вул. Старого Редуту, 11, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "在霍尔蒂察岛看哥萨克聚落的围墙、作坊与教堂",
+      "en": "Timber walls, workshops and a church on Khortytsia",
+      "ru": "Деревянные стены, мастерские и церковь на Хортице",
+      "uk": "Дерев’яні стіни, майстерні й церква на Хортиці"
     }
   },
   {
@@ -201,6 +213,12 @@
       "en": "Tarasa Bulby Street",
       "ru": "Улица Тараса Бульбы",
       "uk": "вул. Тараса Бульби, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从古树和支架认识城市的自然遗产",
+      "en": "An old oak and the structures that protect it",
+      "ru": "Старый дуб и сооружения, которые его защищают",
+      "uk": "Старий дуб і споруди, що його захищають"
     }
   },
   {
@@ -269,6 +287,12 @@
       "en": "Universytetska Street, Zaporizhzhia National University campus",
       "ru": "Университетская улица, территория Запорожского национального университета",
       "uk": "вул. Університетська, на території Запорізького національного університету, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "大学街上的哥萨克历史记忆",
+      "en": "Cossack history on the university campus",
+      "ru": "Казачья история на территории университета",
+      "uk": "Козацька історія на території університету"
     }
   },
   {
@@ -337,6 +361,12 @@
       "en": "Shevchenko Boulevard",
       "ru": "Бульвар Шевченко",
       "uk": "б-р Шевченка, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "舍甫琴科大道上的电影场景",
+      "en": "A film scene recreated on Shevchenko Boulevard",
+      "ru": "Киносцена на бульваре Шевченко",
+      "uk": "Кіносцена на бульварі Шевченка"
     }
   },
   {
@@ -405,6 +435,12 @@
       "en": "2 Sobornyi Avenue",
       "ru": "Соборный проспект, 2",
       "uk": "просп. Соборний, 2, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从站前广场看 1954 年站房的中央立面",
+      "en": "The 1954 station façade from the forecourt",
+      "ru": "Фасад вокзала 1954 года с привокзальной площади",
+      "uk": "Фасад вокзалу 1954 року з привокзальної площі"
     }
   },
   {
@@ -473,6 +509,12 @@
       "en": "27 Feliksa Movchanovskoho Street",
       "ru": "Улица Феликса Мовчановского, 27",
       "uk": "вул. Фелікса Мовчановського, 27, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "在树荫步道与邻里活动区之间散步",
+      "en": "A short walk between shaded paths and neighbourhood play areas",
+      "ru": "Прогулка между тенистыми дорожками и площадками района",
+      "uk": "Прогулянка між затіненими доріжками й майданчиками району"
     }
   },
   {
@@ -541,6 +583,12 @@
       "en": "Embankment Highway",
       "ru": "Набережная автомагистраль",
       "uk": "Набережна автомагістраль, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "沿中央水道看滨河阶梯的轴线",
+      "en": "A riverside staircase organised around a central water channel",
+      "ru": "Прибрежная лестница с центральным водотоком",
+      "uk": "Прибережні сходи з центральним водотоком"
     }
   },
   {
@@ -609,6 +657,12 @@
       "en": "Maiakovskoho Square",
       "ru": "Площадь Маяковского",
       "uk": "пл. Маяковського, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从广场外缘观察球体与八组雕塑",
+      "en": "A central sphere and eight sculptural groups",
+      "ru": "Центральный шар и восемь скульптурных групп",
+      "uk": "Центральна куля й вісім скульптурних груп"
     }
   },
   {
@@ -677,6 +731,12 @@
       "en": "Right-bank beach",
       "ru": "Правобережный пляж",
       "uk": "Правобережний пляж, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "在右岸用开口与斜影观察公共艺术",
+      "en": "Openings and moving shadows on the right bank",
+      "ru": "Проёмы и тени в инсталляции на правом берегу",
+      "uk": "Отвори й тіні в інсталяції на правому березі"
     }
   },
   {
@@ -745,6 +805,12 @@
       "en": "Yakova Novytskoho Street",
       "ru": "Улица Якова Новицкого",
       "uk": "вул. Якова Новицького, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "沿街道花圃走一段连续的城市绿带",
+      "en": "A city walk along continuous beds of roses",
+      "ru": "Городская прогулка вдоль цветников с розами",
+      "uk": "Міська прогулянка вздовж клумб із трояндами"
     }
   },
   {
@@ -813,6 +879,12 @@
       "en": "15 Parkovyi Boulevard",
       "ru": "Парковый бульвар, 15",
       "uk": "Парковий б-р, 15, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "第聂伯河边的节庆绿地与纪念步道",
+      "en": "A Dnipro-side park for festivals and remembrance",
+      "ru": "Парк у Днепра для фестивалей и памятных прогулок",
+      "uk": "Парк біля Дніпра для фестивалів і пам’ятних прогулянок"
     }
   },
   {
@@ -881,6 +953,12 @@
       "en": "206 Sobornyi Avenue",
       "ru": "Соборный проспект, 206",
       "uk": "просп. Соборний, 206, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "在两次纪念植树留下的橡树之间步行",
+      "en": "A walk between oaks planted on two commemorative occasions",
+      "ru": "Аллея дубов двух памятных посадок",
+      "uk": "Алея дубів двох пам’ятних насаджень"
     }
   },
   {
@@ -949,6 +1027,12 @@
       "en": "Mariia Prymachenko Boulevard",
       "ru": "Бульвар Марии Примаченко",
       "uk": "бульвар Марії Примаченко, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从生命喷泉读出大道与广场的关系",
+      "en": "A boulevard walk beginning at the Fountain of Life",
+      "ru": "Прогулка по бульвару от Фонтана жизни",
+      "uk": "Прогулянка бульваром від Фонтану життя"
     }
   },
   {
@@ -1017,6 +1101,12 @@
       "en": "145 Sobornyi Avenue",
       "ru": "Соборный проспект, 145",
       "uk": "просп. Соборний, 145, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "索博尔尼大道上的宽银幕影院历史",
+      "en": "Widescreen cinema history on Sobornyi Avenue",
+      "ru": "История широкоформатного кино на Соборном проспекте",
+      "uk": "Історія широкоформатного кіно на Соборному проспекті"
     }
   },
   {
@@ -1085,6 +1175,12 @@
       "en": "60 Hoholia Street",
       "ru": "Улица Гоголя, 60",
       "uk": "вул. Гоголя, 60, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "果戈里街上的舞台与木偶戏传统",
+      "en": "A puppet stage on Hoholia Street",
+      "ru": "Кукольная сцена на улице Гоголя",
+      "uk": "Лялькова сцена на вулиці Гоголя"
     }
   },
   {
@@ -1153,6 +1249,12 @@
       "en": "Square on Hrebelna Street",
       "ru": "Сквер на Гребельной улице",
       "uk": "сквер на вулиці Гребельній, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "在纪念广场读懂橡枝和头巾的象征",
+      "en": "An oak branch and a scarf in a memorial sculpture",
+      "ru": "Дубовая ветвь и платок в мемориальной скульптуре",
+      "uk": "Дубова гілка й хустка в меморіальній скульптурі"
     }
   },
   {
@@ -1221,6 +1323,12 @@
       "en": "Oleksandrivskyi District, near the Universytetska transit stop",
       "ru": "Александровский район, у остановки «Университетская»",
       "uk": "Запоріжжя, Олександрівський район, біля зупинки громадського транспорту «Університетська»"
+    },
+    "tagline": {
+      "zh": "从大学街站走进普里马琴科的童话动物花园",
+      "en": "A garden of Prymachenko-inspired animals near Universytetska stop",
+      "ru": "Сад сказочных животных у остановки «Университетская»",
+      "uk": "Сад казкових тварин біля зупинки «Університетська»"
     }
   },
   {
@@ -1289,6 +1397,12 @@
       "en": "34 Motorobudivnykiv Avenue",
       "ru": "Проспект Моторостроителей, 34",
       "uk": "просп. Моторобудівників, 34, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "青铜半身像与灰色花岗岩基座",
+      "en": "A bronze bust on a grey granite pedestal",
+      "ru": "Бронзовый бюст на сером гранитном постаменте",
+      "uk": "Бронзове погруддя на сірому гранітному постаменті"
     }
   },
   {
@@ -1357,6 +1471,12 @@
       "en": "9 Viacheslava Zaitseva Street",
       "ru": "Улица Вячеслава Зайцева, 9",
       "uk": "вул. Вячеслава Зайцева, 9"
+    },
+    "tagline": {
+      "zh": "从人行道欣赏扎伊采夫街上的人物壁画",
+      "en": "A portrait mural viewed from Zaitseva Street",
+      "ru": "Портретный мурал на улице Зайцева",
+      "uk": "Портретний мурал на вулиці Зайцева"
     }
   },
   {
@@ -1425,6 +1545,12 @@
       "en": "3 Tsentralnyi Boulevard",
       "ru": "Центральный бульвар, 3",
       "uk": "бульвар Центральний, 3"
+    },
+    "tagline": {
+      "zh": "中央大道上的扎波罗热本地艺术展览",
+      "en": "Local art exhibitions on Tsentralnyi Boulevard",
+      "ru": "Выставки запорожских художников на Центральном бульваре",
+      "uk": "Виставки запорізьких художників на Центральному бульварі"
     }
   },
   {
@@ -1493,6 +1619,12 @@
       "en": "145 Sobornyi Avenue",
       "ru": "Соборный проспект, 145",
       "uk": "просп. Соборний, 145"
+    },
+    "tagline": {
+      "zh": "走进索博尔尼大道上的城市艺术驻地展场",
+      "en": "An urban artist-residency gallery on Sobornyi Avenue",
+      "ru": "Галерея городских арт-резиденций на Соборном проспекте",
+      "uk": "Галерея міських мистецьких резиденцій на Соборному проспекті"
     }
   },
   {
@@ -1561,6 +1693,12 @@
       "en": "Dnipro District, Borodynskyi neighbourhood, along Tovaryska Street",
       "ru": "Днепровский район, Бородинский микрорайон, вдоль Товарищеской улицы",
       "uk": "Запоріжжя, Дніпровський район, Бородинський мікрорайон. Вздовж вулиці Товариської, трохи далі від житлових кварталів у північній частині міста"
+    },
+    "tagline": {
+      "zh": "托瓦里斯卡街旁的社区绿地与纪念题名",
+      "en": "A neighbourhood green and memorial name marker off Tovaryska Street",
+      "ru": "Зелёный сквер с памятной надписью у Товарищеской улицы",
+      "uk": "Зелений сквер із пам’ятним написом біля Товариської вулиці"
     }
   },
   {
@@ -1629,6 +1767,12 @@
       "en": "29 Sobornyi Avenue",
       "ru": "Соборный проспект, 29",
       "uk": "просп. Соборний, 29, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从索博尔尼大道看科尔班笔下的人物拥抱",
+      "en": "Korban’s mural of an embrace on Sobornyi Avenue",
+      "ru": "Мурал Корбана с объятиями на Соборном проспекте",
+      "uk": "Мурал Корбана з обіймами на Соборному проспекті"
     }
   },
   {
@@ -1641,31 +1785,31 @@
     "height": 694,
     "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KG1Y9YCD960FFH0BD883YC7W.jpg",
     "group": "culture",
-    "managerSource": null,
+    "managerSource": "https://kraftovimuzei.setmore.com/",
     "text": {
       "zh": [
         "非凡力量博物馆",
         "互动博物馆以本地运动员的照片、器材与故事介绍扎波罗热的体育文化。",
         "先看人物与旧照片，再依现场工作人员指示体验互动展品。",
-        null
+        "博物馆属于扎波罗热市立博物馆网络，导览由该网络安排。"
       ],
       "en": [
         "Museum of Phenomenal Strength",
         "The interactive museum uses athletes’ stories, archival photos and objects to tell the history of local sport.",
         "Start with the portraits and archival material. Follow staff instructions before trying interactive exhibits.",
-        null
+        "The museum is part of Zaporizhzhia’s municipal museum network, which manages tour bookings."
       ],
       "ru": [
         "Музей феноменальной силы",
         "Интерактивный музей рассказывает о спорте Запорожья через истории спортсменов, архивные фото и предметы.",
         "Начните с портретов и архивных материалов. Пользуйтесь интерактивными экспонатами по указаниям сотрудников.",
-        null
+        "Музей входит в муниципальную музейную сеть Запорожья, которая ведёт запись на экскурсии."
       ],
       "uk": [
         "Музей феноменальної сили",
         "Інтерактивний музей розповідає про спорт Запоріжжя через історії спортсменів, архівні фото та предмети.",
         "Почніть із портретів та архівних матеріалів. Інтерактивами користуйтеся за вказівками працівників.",
-        null
+        "Музей входить до муніципальної музейної мережі Запоріжжя, яка веде запис на екскурсії."
       ]
     },
     "faq": {
@@ -1697,7 +1841,15 @@
       "en": "7 Mariia Prymachenko Boulevard",
       "ru": "Бульвар Марии Примаченко, 7",
       "uk": "бульвар Марії Примаченко, 7, Запоріжжя"
-    }
+    },
+    "tagline": {
+      "zh": "在照片、器材和互动展品之间了解本地体育",
+      "en": "Local sports history through photos, objects and interactive exhibits",
+      "ru": "История местного спорта в фото, предметах и интерактивах",
+      "uk": "Історія місцевого спорту у фото, предметах та інтерактивах"
+    },
+    "visitSource": "https://kraftovimuzei.setmore.com/",
+    "bookingSource": "https://kraftovimuzei.setmore.com/"
   },
   {
     "slug": "zaporozhskaya-oblastnaya-filarmoniya-koncertnyy-zal-imeni-glinki",
@@ -1765,6 +1917,12 @@
       "en": "183 Sobornyi Avenue",
       "ru": "Соборный проспект, 183",
       "uk": "просп. Соборний, 183, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从街道立面走进州爱乐团的音乐节目",
+      "en": "From the street façade to the regional philharmonic programme",
+      "ru": "От уличного фасада к программе областной филармонии",
+      "uk": "Від вуличного фасаду до програми обласної філармонії"
     }
   },
   {
@@ -1833,6 +1991,12 @@
       "en": "29 Poshtova Street, entrance from Blahovishchenska Street",
       "ru": "Почтовая улица, 29, вход с Благовещенской",
       "uk": "вул. Поштова, 29 (вхід з вулиці Блоговіщенської), Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从街角入口找到陶器、绘画和早期城市资料",
+      "en": "Ceramics, paintings and early city records beyond the side-street entrance",
+      "ru": "Керамика, живопись и история города за входом с боковой улицы",
+      "uk": "Кераміка, живопис та історія міста за входом із бічної вулиці"
     }
   },
   {
@@ -1901,6 +2065,12 @@
       "en": "Oleksandr Poliak Square, Sobornyi Avenue",
       "ru": "Сквер Александра Поляка, Соборный проспект",
       "uk": "просп. Соборний, сквер ім. Олександра Поляка, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "索博尔尼大道旁的饥荒纪念空间",
+      "en": "A place of remembrance just off Sobornyi Avenue",
+      "ru": "Место памяти рядом с Соборным проспектом",
+      "uk": "Місце пам’яті поруч із Соборним проспектом"
     }
   },
   {
@@ -1969,7 +2139,15 @@
       "en": "66 Hoholia Street",
       "ru": "Улица Гоголя, 66",
       "uk": "вул. Гоголя, 66"
-    }
+    },
+    "tagline": {
+      "zh": "从早期堡垒到现代街区的城市建筑史",
+      "en": "The city’s architecture from its early fortress to modern districts",
+      "ru": "Архитектура города от ранней крепости до современных кварталов",
+      "uk": "Архітектура міста від ранньої фортеці до сучасних кварталів"
+    },
+    "visitSource": "https://www.zaporizhzhia.city/en/tours/muzej-arhitektury-zaporoze",
+    "bookingSource": "https://kraftovimuzei.setmore.com/"
   },
   {
     "slug": "zaporozhskiy-oblastnoy-hudozhestvennyy-muzey",
@@ -2037,6 +2215,12 @@
       "en": "76B Nezalezhnoi Ukrainy Street",
       "ru": "Улица Независимой Украины, 76Б",
       "uk": "вул. Незалежної України, 76Б, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "从十九世纪绘画馆藏走向多媒介展览",
+      "en": "From nineteenth-century paintings to exhibitions across media",
+      "ru": "От живописи XIX века к выставкам разных видов искусства",
+      "uk": "Від живопису XIX століття до виставок різних видів мистецтва"
     }
   },
   {
@@ -2105,6 +2289,12 @@
       "en": "8 Vyborkska Street",
       "ru": "Выборгская улица, 8",
       "uk": "вул. Виборзька, 8, Запоріжжя"
+    },
+    "tagline": {
+      "zh": "沿展线比较不同时代的汽车和摩托车",
+      "en": "Compare cars and motorcycles across different eras",
+      "ru": "Автомобили и мотоциклы разных эпох",
+      "uk": "Автомобілі й мотоцикли різних епох"
     }
   }
 ]

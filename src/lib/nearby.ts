@@ -6,6 +6,9 @@ type PlaceText = [title: string, history: string, observation: string, manager: 
 
 export type NearbyPlace = {
   slug: string;
+  tagline: Record<Language, string>;
+  visitSource?: string;
+  bookingSource?: string;
   address: string;
   displayAddress: Record<Language, string>;
   coordinates: string | null;
@@ -30,6 +33,16 @@ export const nearbyGroups = ['parks', 'culture', 'art'] as const;
 
 export const nearbyLabels = {
   zh: {
+    city: "城市与国家",
+    cityValue: "扎波罗热，乌克兰",
+    localName: "当地名称",
+    operator: "管理或运营单位",
+    pair: "可顺路参观",
+    pairWalk: "规划两个景点间的步行路线",
+    freeTours: "市立预约平台所列团体导览免费。先查所选活动是否有名额。",
+    architectureHours: "旅游信息中心公布：周二至周六 09:30–18:00，周日 10:00–16:00，周一闭馆。出发前请核对。",
+    bookHours: "按预约平台所列场次参观",
+    bookTours: "查看免费导览与预约场次",
     burlaiHours: "每日 10:00–17:00，馆方建议提前 7 天预约导览；出发前再向馆方核对。",
     finish: "依现场开放动线前往下方的拍摄机位。",
     discover: "探索景点",
@@ -71,6 +84,16 @@ export const nearbyLabels = {
     reviews: '在哪里看访客评价？',
   },
   en: {
+    city: "City and country",
+    cityValue: "Zaporizhzhia, Ukraine",
+    localName: "Local name",
+    operator: "Management or operator",
+    pair: "Combine with a nearby stop",
+    pairWalk: "Plan a walk between the two sites",
+    freeTours: "The municipal booking page lists the group tours as free. Check availability for the selected activity.",
+    architectureHours: "The tourist information centre lists Tuesday–Saturday 09:30–18:00 and Sunday 10:00–16:00. Closed Monday. Confirm before leaving.",
+    bookHours: "Visit by the sessions listed on the booking site",
+    bookTours: "Check free tours and booking times",
     burlaiHours: "Daily 10:00–17:00. The museum recommends booking tours seven days ahead. Confirm before leaving.",
     finish: "Follow the open route to the viewpoint described below.",
     discover: "Explore the attraction",
@@ -112,6 +135,16 @@ export const nearbyLabels = {
     reviews: 'Where can I read visitor reviews?',
   },
   ru: {
+    city: "Город и страна",
+    cityValue: "Запорожье, Украина",
+    localName: "Местное название",
+    operator: "Управляющая организация",
+    pair: "Что посетить поблизости",
+    pairWalk: "Проложить пеший маршрут между местами",
+    freeTours: "Групповые экскурсии на муниципальной странице бронирования указаны как бесплатные. Проверьте наличие мест.",
+    architectureHours: "Туристический центр указывает: вт–сб 09:30–18:00, вс 10:00–16:00, пн закрыто. Проверьте перед выездом.",
+    bookHours: "Посещение по сеансам на странице бронирования",
+    bookTours: "Проверить бесплатные экскурсии и время записи",
     burlaiHours: "Ежедневно 10:00–17:00. Музей рекомендует заказывать экскурсию за семь дней; уточните режим перед выездом.",
     finish: "По открытому маршруту пройдите к точке съёмки, описанной ниже.",
     discover: "Откройте для себя это место",
@@ -153,6 +186,16 @@ export const nearbyLabels = {
     reviews: 'Где почитать отзывы посетителей?',
   },
   uk: {
+    city: "Місто й країна",
+    cityValue: "Запоріжжя, Україна",
+    localName: "Місцева назва",
+    operator: "Керівна організація",
+    pair: "Що відвідати поруч",
+    pairWalk: "Прокласти піший маршрут між місцями",
+    freeTours: "Групові екскурсії на муніципальній сторінці бронювання вказані як безоплатні. Перевірте наявність місць.",
+    architectureHours: "Туристичний центр зазначає: вт–сб 09:30–18:00, нд 10:00–16:00, пн зачинено. Звірте перед виїздом.",
+    bookHours: "Відвідування за сеансами на сторінці бронювання",
+    bookTours: "Перевірити безоплатні екскурсії та час бронювання",
     burlaiHours: "Щодня 10:00–17:00. Музей радить замовити екскурсію за сім днів; перед поїздкою звірте графік.",
     finish: "Відкритим маршрутом пройдіть до точки знімання, описаної нижче.",
     discover: "Відкрийте для себе це місце",

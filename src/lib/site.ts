@@ -14,6 +14,17 @@ export const SITE_NAME = 'Dubovyy Hay';
 export const SITE_LOCALES = ['zh', 'en', 'ru', 'uk'] as const;
 export const DEFAULT_LOCALE = 'zh';
 
+const openGraphLocales: Record<string, string> = {
+  zh: 'zh_CN',
+  en: 'en_US',
+  ru: 'ru_RU',
+  uk: 'uk_UA',
+};
+
+export function openGraphLocale(locale: string): string {
+  return openGraphLocales[locale] ?? openGraphLocales[DEFAULT_LOCALE];
+}
+
 /** 生成形如 https://域名/uk/privacy-policy 的带语言前缀 URL */
 export function localeUrl(locale: string, route = ''): string {
   return `${SITE_URL}/${locale}${route}`;

@@ -1,7 +1,7 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
-import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from '@/lib/site';
+import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl, openGraphLocale } from '@/lib/site';
 
 export async function generateMetadata({
   params,
@@ -19,7 +19,7 @@ export async function generateMetadata({
   const title = t('title');
   return {
     title,
-    openGraph: { title, url: selfUrl },
+    openGraph: { locale: openGraphLocale(locale), title, url: selfUrl },
     twitter: { title },
     alternates: {
       canonical: selfUrl,

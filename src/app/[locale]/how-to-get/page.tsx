@@ -1,3 +1,4 @@
+import { openGraphLocale } from '@/lib/site';
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import TopicPage from '@/components/TopicPage';
@@ -15,7 +16,7 @@ export async function generateMetadata({
   return {
     title: topic.title,
     description: topic.intro,
-    openGraph: { title: topic.title, description: topic.intro, url: topicCanonical(locale, 'how-to-get') },
+    openGraph: { locale: openGraphLocale(locale), title: topic.title, description: topic.intro, url: topicCanonical(locale, 'how-to-get') },
     twitter: { title: topic.title, description: topic.intro },
     alternates: {
       canonical: topicCanonical(locale, 'how-to-get'),
