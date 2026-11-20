@@ -18,6 +18,8 @@ function CookieToggle({
   locked?: boolean;
   badge?: string;
 }) {
+  const t = useTranslations('ui');
+
   return (
     <div
       className="flex items-start justify-between gap-4 p-5 sm:p-6 rounded-xl"
@@ -42,7 +44,7 @@ function CookieToggle({
       <button
         onClick={locked ? undefined : onToggle}
         className={`cookie-toggle flex-shrink-0 ${enabled ? 'active' : ''} ${locked ? 'opacity-60 cursor-not-allowed' : ''}`}
-        aria-label={`Toggle ${label}`}
+        aria-label={t('cookieToggle', { label })}
         disabled={locked}
       />
     </div>

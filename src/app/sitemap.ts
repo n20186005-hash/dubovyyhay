@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { TOPIC_PATH } from '@/lib/topics';
+import { nearby, nearbyPath } from '@/lib/nearby';
 import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from '@/lib/site';
 
 export const dynamic = 'force-static';
@@ -8,7 +9,7 @@ export const dynamic = 'force-static';
 const LAST_MODIFIED = '2026-09-09';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const topics = new Set<string>(Object.values(TOPIC_PATH));
+  const topics = new Set<string>([...Object.values(TOPIC_PATH), ...nearby.map(place => nearbyPath(place.slug))]);
   const routes = ['', ...topics, '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
   const entries: MetadataRoute.Sitemap = [];

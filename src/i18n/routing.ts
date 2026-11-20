@@ -11,6 +11,8 @@ export const routing = defineRouting({
     '/how-to-get': '/how-to-get',
     '/photos': '/photos',
     '/history': '/history',
+    '/local-history-museum': '/local-history-museum',
+    '/zaporizhzhia-2-station': '/zaporizhzhia-2-station',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',

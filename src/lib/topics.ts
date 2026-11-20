@@ -1,6 +1,6 @@
 import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from './site';
 
-export const TOPIC_SLUGS = ['attractions', 'how-to-get', 'photos', 'history'] as const;
+export const TOPIC_SLUGS = ['attractions', 'how-to-get', 'photos', 'history', 'local-history-museum', 'zaporizhzhia-2-station'] as const;
 export type TopicSlug = (typeof TOPIC_SLUGS)[number];
 
 export const TOPIC_PATH: Record<TopicSlug, string> = {
@@ -8,6 +8,8 @@ export const TOPIC_PATH: Record<TopicSlug, string> = {
   'how-to-get': '/how-to-get',
   photos: '/photos',
   history: '/history',
+  'local-history-museum': '/local-history-museum',
+  'zaporizhzhia-2-station': '/zaporizhzhia-2-station',
 };
 
 export function topicCanonical(locale: string, slug: TopicSlug): string {

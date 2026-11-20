@@ -1,0 +1,6 @@
+{
+  "zh": {"title":"找不到页面","description":"你访问的页面不存在。","home":"返回公园首页"},
+  "en": {"title":"Page not found","description":"The requested page does not exist.","home":"Back to the park homepage"},
+  "ru": {"title":"Страница не найдена","description":"Запрошенная страница не существует.","home":"На главную страницу парка"},
+  "uk": {"title":"Сторінку не знайдено","description":"Запитаної сторінки не існує.","home":"На головну сторінку парку"}
+}

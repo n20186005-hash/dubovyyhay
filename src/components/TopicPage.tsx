@@ -5,11 +5,25 @@ import Header from './Header';
 import Footer from './Footer';
 import Gallery from './Gallery';
 import { MAPS_SHARE_URL } from '@/lib/geo';
+import { getTopicPlace } from '@/lib/topic-places';
 
 export default async function TopicPage({ topic }: { topic: TopicSlug }) {
   const locale = await getLocale();
   const t = await getTranslations('topics');
   const th = await getTranslations('header');
+  const details = await getTranslations('placeDetails');
+  const hero = await getTranslations('hero');
+  const basic = await getTranslations('basicInfo');
+  const place = getTopicPlace(topic);
+  const photo = 'image' in place ? place : null;
+  const manager = photo ? t(`${topic}.manager`) : details('parkManager');
+  const transport = photo ? t(`${topic}.transport`) : details('parkTransport');
+
+  const address = topic === 'local-history-museum'
+    ? details('museumAddress')
+    : topic === 'zaporizhzhia-2-station'
+      ? details('stationAddress')
+      : basic('addressValue');
 
   const title = t(`${topic}.title`);
   const subtitle = t(`${topic}.subtitle`);
@@ -85,6 +99,49 @@ export default async function TopicPage({ topic }: { topic: TopicSlug }) {
             <p className="text-lg leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
               {intro}
             </p>
+          </div>
+        </section>
+
+        <section className="max-w-3xl mx-auto px-4 sm:px-6 pb-10 space-y-8">
+          {photo && (
+            <figure>
+              <img src={photo.image} alt={title} className="w-full rounded-xl" width={1200}
+                height={topic === 'local-history-museum' ? 900 : 797} decoding="async" />
+              <figcaption className="mt-2 text-sm">
+                <a className="underline" href={photo.photoSource}>{details('photo')} · {photo.photographer}</a>
+                {' · '}
+                <a className="underline" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+              </figcaption>
+            </figure>
+          )}
+          <div>
+            <h2 className="font-display text-2xl font-semibold mb-3">{details('about')}</h2>
+            <p className="leading-relaxed">
+              <strong>{details('manager')} · </strong>{manager}{' '}
+              <a className="underline" href={place.source}>{details('official')}</a>
+            </p>
+          </div>
+          <div>
+            <h2 className="font-display text-2xl font-semibold mb-3">{details('basic')}</h2>
+            <dl>
+              <dt className="font-semibold">{details('address')}</dt>
+              <dd>{address}</dd>
+            </dl>
+          </div>
+          <div>
+            <h2 className="font-display text-2xl font-semibold mb-3">{details('transport')}</h2>
+            <p className="mb-2 leading-relaxed">{transport}</p>
+            <a className="underline" href={place.map}>{details('map')}</a>
+          </div>
+          <div>
+            <h2 className="font-display text-2xl font-semibold mb-3">{details('reviews')}</h2>
+            {!photo && (
+              <p className="mb-2">
+                <strong>{hero('rating')} / 5 ({hero('reviewCount')})</strong> · {details('parkRating')}
+              </p>
+            )}
+            <p className="leading-relaxed">{details('latest')}</p>
+            <a className="underline" href={place.map}>{details('map')}</a>
           </div>
         </section>
 

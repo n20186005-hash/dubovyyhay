@@ -1,4 +1,4 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useLocale, useTranslations, useMessages } from 'next-intl';
 import { MAPS_SHARE_URL, MAPS_EMBED_SRC } from '@/lib/geo';
 
 const LANDMARK_QUERIES = [
@@ -9,6 +9,9 @@ const LANDMARK_QUERIES = [
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const ui = useTranslations('ui');
+  const locale = useLocale();
+  const mapLanguage = locale === 'zh' ? 'zh-CN' : locale;
   const messages = useMessages() as any;
   const basic = messages?.basicInfo || {};
   const hero = messages?.hero || {};
@@ -56,14 +59,14 @@ export default function MapEmbed() {
         >
           {/* 内嵌地图保留 Google 版权/归属标识，符合 Google Maps API 使用条款 */}
           <iframe
-            src={MAPS_EMBED_SRC}
+            src={MAPS_EMBED_SRC.replaceAll("zh-CN", mapLanguage) + "&hl=" + mapLanguage}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Dubovyy Hay (Дубовий Гай), Zaporizhzhia"
+            title={ui('mapTitle')}
           />
         </div>
 

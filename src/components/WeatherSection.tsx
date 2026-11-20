@@ -144,7 +144,7 @@ export default async function WeatherSection({ locale }: { locale: string }) {
               <Stat label={t('humidity')} value={`${Math.round(current.relative_humidity_2m)}%`} />
               <Stat
                 label={t('wind')}
-                value={`${Math.round(current.wind_speed_10m)} km/h`}
+                value={`${Math.round(current.wind_speed_10m)} ${t('windUnit')}`}
               />
               <Stat
                 label={t('precipNow')}

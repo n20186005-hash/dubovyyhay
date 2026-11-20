@@ -1,4 +1,14 @@
 {
+  "ui": {
+    "language": "Switch language",
+    "theme": "Toggle theme",
+    "closePhoto": "Close photo preview",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photo": "Photo {number}",
+    "mapTitle": "Map of Dubovyy Hay Park",
+    "cookieToggle": "Toggle {label}"
+  },
   "meta": {
     "title": "Dubovka (Dubovyy Hay) Park in Zaporizhzhia — Rides, Photos & How to Get There",
     "description": "Dubovyy Hay (locally 'Dubovka') in Zaporizhzhia: shady alleys, lakes and rides. Free 24/7 entry. Address, photos, rides info and how to get there."
@@ -11,7 +21,7 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Dubovyy Hay (Дубовий Гай) Park — Zaporizhzhia",
+    "title": "Dubovyy Hay Park — Zaporizhzhia",
     "subtitle": "Zaporizhzhia · Ukraine",
     "rating": "4.2",
     "reviewCount": "11,829",
@@ -21,7 +31,7 @@
   },
   "intro": {
     "title": "Explore Dubovyy Hay",
-    "description": "Dubovyy Hay (Дубовий Гай) is located in Zaporizhzhia, Zaporizhzhia Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Zaporizhzhia, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Zaporizhzhia.",
+    "description": "Dubovyy Hay is located in Zaporizhzhia, Zaporizhzhia Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Zaporizhzhia, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Zaporizhzhia.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -40,9 +50,9 @@
         "Convenient Location: Located within Zaporizhzhia city, easily accessible by walking or public transportation."
       ]
     },
-    "summary": "Dubovyy Hay, known officially as «Дубовий Гай», is Zaporizhzhia’s main city park (Zaporizhzhia Oblast, Ukraine). Tree-lined paths, lakes with bridges, concert areas and a small amusement park make it a favourite year-round spot for locals and visitors. This guide helps you plan your visit to Dubovyy Hay in Zaporizhzhia.",
+    "summary": "Dubovyy Hay, known officially as Dubovyi Hai, is Zaporizhzhia’s main city park (Zaporizhzhia Oblast, Ukraine). Tree-lined paths, lakes with bridges, concert areas and a small amusement park make it a favourite year-round spot for locals and visitors. This guide helps you plan your visit to Dubovyy Hay in Zaporizhzhia.",
     "breadcrumb": [
-      "Dubovyy Hay (Дубовий Гай)",
+      "Dubovyy Hay",
       "Zaporizhzhia",
       "Zaporizhzhia Oblast",
       "Ukraine"
@@ -71,7 +81,7 @@
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Dubovyy Hay (Дубовий Гай)",
+    "officialNameValue": "Dubovyy Hay Park",
     "type": "Attraction Type",
     "typeValue": "Park",
     "country": "Country",
@@ -80,7 +90,7 @@
     "cityValue": "Zaporizhzhia",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "вулиця Глісерна, 1, Zaporizhzhia, Zaporizhia Oblast, Ukraine 69000",
+    "addressValue": "1 Hliserna Street, Zaporizhzhia, Ukraine 69000",
     "plusCode": "Plus Code",
     "plusCodeValue": "R56C+75 Zaporizhzhia, Zaporizhzhia Oblast, Ukraine",
     "phone": "Phone",
@@ -258,7 +268,7 @@
   },
   "mapSection": {
     "title": "Transportation Guide",
-    "subtitle": "вулиця Глісерна, 1, Zaporizhzhia, Zaporizhia Oblast, Ukraine 69000",
+    "subtitle": "1 Hliserna Street, Zaporizhzhia, Ukraine 69000",
     "openMaps": "View on Google Maps",
     "nearbyTitle": "Nearby landmarks",
     "nearbyText": "When visiting Dubovyy Hay, it is easy to combine your trip with other well-known sights of Zaporizhzhia:",
@@ -514,6 +524,7 @@
     "disclaimer": "A note on neutrality: this website is a non-profit science and travel information project. It only gives directional tips by facility type and does not recommend or endorse any particular business, brand or service. Availability, prices and opening hours may change at any time, so please rely on the actual on-site information."
   },
   "weather": {
+    "windUnit": "km/h",
     "title": "Weather & Trip Tips",
     "subtitle": "Around Dubovyi Hai Park · current conditions and forecast",
     "currentTitle": "Right now",
@@ -583,7 +594,7 @@
     "text": "This page is compiled from open and official sources. Ratings and review counts are taken from the public Google listing of the place.",
     "links": [
       {
-        "name": "Google Maps — Dubovyy Hay (Дубовий Гай)",
+        "name": "Google Maps — Dubovyy Hay",
         "url": "https://maps.app.goo.gl/WoyEp1gowNMDoEnNA"
       },
       {
@@ -596,7 +607,68 @@
       }
     ]
   },
+  "placeDetails": {
+    "museumAddress": "29 Troitska Street, Zaporizhzhia",
+    "stationAddress": "9 Kostyantyna Velykoho Street, Zaporizhzhia",
+    "about": "About the site",
+    "manager": "Managing body",
+    "basic": "Basic information",
+    "address": "Address",
+    "transport": "Getting there",
+    "reviews": "Ratings and reviews",
+    "map": "Open in Google Maps",
+    "official": "Official information",
+    "photo": "Photo source",
+    "latest": "See the place listing for the latest visitor ratings and reviews.",
+    "parkRating": "Dubovyy Hay Park, Google Maps",
+    "parkManager": "Municipal enterprise Tytan is responsible for the park, according to Zaporizhzhia City Council.",
+    "parkTransport": "Use Hliserna Street as your destination and check local transport and walking directions on the day of your visit."
+  },
   "topics": {
+    "local-history-museum": {
+      "title": "Zaporizhzhia Regional Museum of Local History",
+      "subtitle": "City history inside the former Nobility Assembly",
+      "intro": "The regional museum occupies the former Nobility Assembly building at 29 Troitska Street, in the historic part of Zaporizhzhia.",
+      "updated": "Updated 20 November 2026",
+      "sectionsTitle": "What to look for",
+      "sections": [
+        {
+          "title": "City history inside the former Nobility Assembly",
+          "text": "Start outside with the corner façade. Inside, use the current exhibition listings to decide which rooms to visit."
+        }
+      ],
+      "faqTitle": "Frequently asked questions",
+      "faq": [
+        {
+          "q": "How can I check opening hours and tickets?",
+          "a": "Check the museum’s visitor information before your visit for its current schedule and ticket arrangements."
+        }
+      ],
+      "manager": "Regional council municipal museum named for Yakiv Novytskyi",
+      "transport": "The museum lists the Drama Theatre and Freedom Square stops, plus the Troitska Street tram stop. Recheck routes before leaving."
+    },
+    "zaporizhzhia-2-station": {
+      "title": "Zaporizhzhia II Historic Railway Station",
+      "subtitle": "The former Oleksandrivsk station building",
+      "intro": "The historic Oleksandrivsk station building dates to 1904 and is recorded as a monument of local architectural significance. It stands on Kostyantyna Velykoho Street.",
+      "updated": "Updated 20 November 2026",
+      "sectionsTitle": "What to look for",
+      "sections": [
+        {
+          "title": "The former Oleksandrivsk station building",
+          "text": "Take in the historic streetside façade from public areas. Combine the exterior visit with a walk through the old district, leaving extra time if you have a train."
+        }
+      ],
+      "faqTitle": "Frequently asked questions",
+      "faq": [
+        {
+          "q": "Can I visit the interior?",
+          "a": "Interior access depends on station operations. Follow posted signs and check with railway staff before entering."
+        }
+      ],
+      "manager": "Ukrainian Railways, Prydniprovska Railway regional branch",
+      "transport": "Use the Kostyantyna Velykoho Street address for the historic building and check the departure station and platform separately on your ticket."
+    },
     "exploreMore": "Explore more guides",
     "attractions": {
       "title": "Dubovyy Hay Park Rides in Zaporizhzhia",
@@ -637,7 +709,7 @@
     "how-to-get": {
       "title": "Getting to Dubovyy Hay Park in Zaporizhzhia",
       "subtitle": "Address, public transport and travel options",
-      "intro": "Find the park at 1 Hliserna Street (вул. Глісерна, 1) in the Oleksandrivskyi district. Open the map and plan from your starting point.",
+      "intro": "Find the park at 1 Hliserna Street in the Oleksandrivskyi district. Open the map and plan from your starting point.",
       "updated": "Updated 20 November 2026",
       "sectionsTitle": "Ways to get there",
       "sections": [
@@ -658,7 +730,7 @@
       "faq": [
         {
           "q": "Where exactly is Dubovyy Hay park?",
-          "a": "Find the park at 1 Hliserna Street (вул. Глісерна, 1) in the Oleksandrivskyi district. Open the map and plan from your starting point."
+          "a": "Find the park at 1 Hliserna Street in the Oleksandrivskyi district. Open the map and plan from your starting point."
         },
         {
           "q": "Is there parking near the park?",

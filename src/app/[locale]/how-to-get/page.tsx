@@ -15,6 +15,8 @@ export async function generateMetadata({
   return {
     title: topic.title,
     description: topic.intro,
+    openGraph: { title: topic.title, description: topic.intro, url: topicCanonical(locale, 'how-to-get') },
+    twitter: { title: topic.title, description: topic.intro },
     alternates: {
       canonical: topicCanonical(locale, 'how-to-get'),
       languages: topicHreflangs(locale, 'how-to-get'),

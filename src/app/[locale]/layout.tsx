@@ -4,7 +4,6 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
 import { SITE_URL, SITE_NAME } from '@/lib/site';
-import { MAPS_SHARE_URL } from '@/lib/geo';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -96,97 +95,9 @@ export default async function LocaleLayout({
     'uk': 'uk',
   };
 
-  const baseUrl = SITE_URL;
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const ruUrl = `${baseUrl}/ru`;
-  const ukUrl = `${baseUrl}/uk`;
-  const mapsShareUrl = MAPS_SHARE_URL;
-  const officialTourismUrl = 'https://www.tourism.gov.ua/';
-
-  let selfUrl = zhUrl;
-  if (locale === 'en') selfUrl = enUrl;
-  else if (locale === 'ru') selfUrl = ruUrl;
-  else if (locale === 'uk') selfUrl = ukUrl;
-
-  const structuredData = {
-    '@context': 'https://schema.org',
-    '@type': ['Park', 'TouristAttraction'],
-    '@id': `${selfUrl}#attraction`,
-    name: messages?.basicInfo?.officialNameValue || 'Dubovyy Hay (Дубовий Гай)',
-    alternateName: ['Дубовий Гай', 'Дубовка', 'Дубовая роща', 'Dubovyy Hay', 'Dubovka'],
-    url: selfUrl,
-    description: messages?.meta?.description || '',
-    image: [
-      `${baseUrl}/gallery/dubovyy-hay%20(1).jpg`,
-      `${baseUrl}/gallery/dubovyy-hay%20(2).jpg`,
-      `${baseUrl}/gallery/dubovyy-hay%20(3).jpg`,
-    ],
-    telephone: String(messages?.basicInfo?.phoneValue || '').replace(/\s+/g, ''),
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: 'вулиця Глісерна, 1',
-      addressLocality: 'Zaporizhzhia',
-      addressRegion: 'Zaporizhzhia Oblast',
-      postalCode: '69000',
-      addressCountry: 'UA',
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: 47.8089693,
-      longitude: 35.1657067,
-    },
-    hasMap: mapsShareUrl,
-    sameAs: [mapsShareUrl, officialTourismUrl],
-    isAccessibleForFree: true,
-    publicAccess: true,
-    openingHoursSpecification: {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: [
-        'Monday',
-        'Tuesday',
-        'Wednesday',
-        'Thursday',
-        'Friday',
-        'Saturday',
-        'Sunday',
-      ],
-      opens: '00:00',
-      closes: '23:59',
-    },
-    ...(messages?.hero?.rating
-      ? {
-          aggregateRating: {
-            '@type': 'AggregateRating',
-            ratingValue: parseFloat(String(messages.hero.rating)),
-            reviewCount: parseInt(String(messages.hero.reviewCount).replace(/[^\d]/g, ''), 10) || undefined,
-          },
-        }
-      : {}),
-  };
-
-  const jsonLd = JSON.stringify(structuredData);
-
-  const faqItems = (messages?.faq?.items as { q?: string; a?: string }[]) || [];
-  const faqLd = faqItems.length
-    ? JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        '@id': `${selfUrl}#faq`,
-        mainEntity: faqItems
-          .filter((i) => i?.q && i?.a)
-          .map((i) => ({
-            '@type': 'Question',
-            name: i.q,
-            acceptedAnswer: { '@type': 'Answer', text: i.a },
-          })),
-      })
-    : null;
-
   return (
     <html lang={langMap[locale] || 'zh-CN'} suppressHydrationWarning>
       <head>
-        <link rel="preload" as="image" href="/gallery/dubovyy-hay%20(1).jpg" fetchPriority="high" />
         {/* Google Analytics 4 + Consent Mode v2（默认拒绝；仅当 cookiePrefs.analytics 授权后按需加载 gtag.js） */}
         <script
           dangerouslySetInnerHTML={{
@@ -239,16 +150,6 @@ export default async function LocaleLayout({
         <link rel="manifest" href="/manifest.webmanifest" />
         <link rel="icon" type="image/svg+xml" href="/icon.svg" />
         <link rel="apple-touch-icon" href="/icons/icon-1024.png" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: jsonLd }}
-        />
-        {faqLd && (
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: faqLd }}
-          />
-        )}
         <script
           dangerouslySetInnerHTML={{
             __html: `

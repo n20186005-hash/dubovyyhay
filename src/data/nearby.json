@@ -1,0 +1,2110 @@
+[
+  {
+    "slug": "memorial-derevo-pamiati",
+    "source": "https://zaporizhzhia.city/en/places/memorial-derevo-pamiati",
+    "address": "парк Металургів, Парковий бульвар, 15",
+    "coordinates": null,
+    "image": "/explore/memorial-derevo-pamiati.jpg",
+    "width": 1040,
+    "height": 591,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KHZNSHH3ZT4AN0K6TWMM54WF.PNG",
+    "group": "art",
+    "managerSource": "https://zp.gov.ua/news/305092-memorializaciia-pamiati-zagiblix-geroyiv",
+    "text": {
+      "zh": [
+        "记忆之树纪念装置",
+        "金属树枝悬挂刻有扎波罗热州阵亡者姓名的纪念钟，让声音成为追思的一部分。",
+        "从冶金公园步道观察枝条与钟的排列，拍摄时礼让正在悼念的人。",
+        "纪念计划由扎波罗热市议会的退伍军人政策部门推动。"
+      ],
+      "en": [
+        "Tree of Memory memorial",
+        "The metal tree carries bells engraved with names of people from the region who died in service.",
+        "From the park path, look at how the bells hang from the branches. Give mourners space when taking photos.",
+        "Zaporizhzhia City Council’s Veterans Policy Department oversees the commemoration programme."
+      ],
+      "ru": [
+        "Дерево памяти",
+        "На металлических ветвях висят колокольчики с именами погибших жителей области.",
+        "Рассмотрите подвеску колокольчиков с дорожки парка и не мешайте людям, пришедшим почтить память.",
+        "Программу увековечения памяти курирует департамент по делам ветеранов горсовета."
+      ],
+      "uk": [
+        "Дерево пам’яті",
+        "На металевих гілках висять дзвоники з іменами полеглих жителів області.",
+        "Розгляньте підвіси з доріжки парку та залиште простір людям, які прийшли вшанувати пам’ять.",
+        "Програмою вшанування опікується Департамент з питань ветеранської політики міськради."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "钟上刻了什么？",
+        "刻有扎波罗热州阵亡者姓名。"
+      ],
+      "en": [
+        "What is engraved on the bells?",
+        "Names of fallen service members from the region."
+      ],
+      "ru": [
+        "Что выгравировано на колокольчиках?",
+        "Имена погибших жителей области."
+      ],
+      "uk": [
+        "Що викарбувано на дзвониках?",
+        "Імена полеглих жителів області."
+      ]
+    },
+    "photography": {
+      "zh": "从外圈找能看见树枝交叠的角度，让钟的轮廓与背景天空分开。",
+      "en": "Frame the overlapping branches against the sky so the bell silhouettes remain distinct.",
+      "ru": "Снимайте перекрещивающиеся ветви на фоне неба, чтобы были видны контуры колокольчиков.",
+      "uk": "Знімайте перехрещені гілки на тлі неба, щоб виразно читалися контури дзвоників."
+    },
+    "displayAddress": {
+      "zh": "冶金公园，公园大道 15 号",
+      "en": "Metallurgical Park, 15 Parkovyi Boulevard",
+      "ru": "Парк Металлургов, Парковый бульвар, 15",
+      "uk": "парк Металургів, Парковий бульвар, 15"
+    }
+  },
+  {
+    "slug": "istoriko-kulturnyy-kompleks-zaporozhskaya-sech",
+    "source": "https://zaporizhzhia.city/en/places/istoriko-kulturnyy-kompleks-zaporozhskaya-sech",
+    "address": "вул. Старого Редуту, 11, Запоріжжя",
+    "coordinates": "47.85738800,35.07495500",
+    "image": "/explore/istoriko-kulturnyy-kompleks-zaporozhskaya-sech.jpg",
+    "width": 900,
+    "height": 600,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/1969/NTnT1.jpeg",
+    "group": "culture",
+    "managerSource": "https://ostriv.org/vidviduvacham/",
+    "text": {
+      "zh": [
+        "扎波罗热塞契历史文化园区",
+        "霍尔蒂察岛上的重建聚落呈现 16 至 18 世纪哥萨克塞契的典型格局，包括手工业区和核心围区。",
+        "从文化园区入口看木围墙，再依开放动线走向中央教堂。岛上通道与开放时段以保护区公告为准。",
+        "由霍尔蒂察国家保护区管理，参观及导览由保护区安排。"
+      ],
+      "en": [
+        "Zaporizhzhia Sich",
+        "The reconstructed settlement on Khortytsia interprets Cossack strongholds of the 16th to 18th centuries, with artisan and core precincts.",
+        "Look at the timber walls from the entrance and follow the open route toward the central church. Check reserve access notices first.",
+        "Khortytsia National Reserve manages the complex and its visits."
+      ],
+      "ru": [
+        "Запорожская Сечь",
+        "Реконструированный комплекс на Хортице показывает устройство казацких сечей XVI–XVIII веков с ремесленной и центральной зонами.",
+        "У входа рассмотрите деревянные стены и пройдите по открытому маршруту к церкви. Заранее проверьте объявления заповедника.",
+        "Комплексом и посещениями ведает Национальный заповедник «Хортица»."
+      ],
+      "uk": [
+        "Запорозька Січ",
+        "Відтворений комплекс на Хортиці показує устрій козацьких січей XVI–XVIII століть із ремісничою та центральною частинами.",
+        "Біля входу огляньте дерев’яні стіни й рухайтеся відкритим маршрутом до церкви. Спершу перевірте оголошення заповідника.",
+        "Комплексом та відвідуванням опікується Національний заповідник «Хортиця»."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "这是原址保存的塞契吗？",
+        "园区是依历史格局重建的诠释空间，并非某一座塞契的原样复刻。"
+      ],
+      "en": [
+        "Is this an original Cossack settlement?",
+        "The complex interprets the layout of historic Sich settlements through reconstruction."
+      ],
+      "ru": [
+        "Это подлинная историческая Сечь?",
+        "Комплекс представляет собой реконструкцию типичного устройства исторических сечей."
+      ],
+      "uk": [
+        "Це оригінальна історична Січ?",
+        "Комплекс відтворює типовий устрій історичних січей."
+      ]
+    },
+    "photography": {
+      "zh": "先以木围墙拍下聚落边界，再用教堂屋顶作为第二个构图焦点。",
+      "en": "Photograph the timber enclosure first, then use the church roof as a second focal point.",
+      "ru": "Сначала снимите деревянную ограду, затем сделайте крышу церкви центром второго кадра.",
+      "uk": "Спершу зніміть дерев’яну огорожу, а в другому кадрі зробіть акцент на даху церкви."
+    },
+    "displayAddress": {
+      "zh": "旧堡垒街 11 号",
+      "en": "11 Staroho Redutu Street",
+      "ru": "Улица Старого Редута, 11",
+      "uk": "вул. Старого Редуту, 11, Запоріжжя"
+    }
+  },
+  {
+    "slug": "zaporozhskiy-dub",
+    "source": "https://zaporizhzhia.city/en/places/zaporozhskiy-dub",
+    "address": "вул. Тараса Бульби, Запоріжжя",
+    "coordinates": "47.87111000,34.99897800",
+    "image": "/explore/zaporozhskiy-dub.jpg",
+    "width": 1040,
+    "height": 780,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/1958/FOWKJ.jpg",
+    "group": "parks",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "扎波罗热古橡树",
+        "这株第聂伯河流域的老橡树于 1972 年获保护，2010 年获认定为乌克兰国树；实际树龄有不同估算。",
+        "由围栏外观察支撑结构与树干，选稍远的位置拍摄整体轮廓。",
+        null
+      ],
+      "en": [
+        "Zaporizhzhia Oak",
+        "This old Dnipro-region oak came under protection in 1972 and gained national-tree recognition in 2010. Estimates of its age vary.",
+        "Stay outside the enclosure and look at the trunk and supports. Step back for a complete silhouette.",
+        null
+      ],
+      "ru": [
+        "Запорожский дуб",
+        "Старый дуб охраняется с 1972 года и признан национальным деревом в 2010 году. Оценки его возраста различаются.",
+        "Оставайтесь за оградой и рассмотрите ствол и опоры. Для общего кадра отойдите подальше.",
+        null
+      ],
+      "uk": [
+        "Запорізький дуб",
+        "Старий дуб охороняють із 1972 року, а 2010 року його визнали національним деревом. Оцінки віку різняться.",
+        "Залишайтеся за огорожею й огляньте стовбур та опори. Для загального кадру відійдіть далі.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "橡树真的刚好七百岁吗？",
+        "「七百年橡树」是通称，专家对树龄有不同估算。"
+      ],
+      "en": [
+        "Is the oak exactly seven hundred years old?",
+        "That is its common name. Estimates of its age differ."
+      ],
+      "ru": [
+        "Дубу ровно семьсот лет?",
+        "Это распространённое название. Оценки возраста дерева различаются."
+      ],
+      "uk": [
+        "Дубу рівно сімсот років?",
+        "Це поширена назва. Оцінки віку дерева різняться."
+      ]
+    },
+    "photography": {
+      "zh": "拍整株树时把支架留在画面里，另取一张树皮近景，对照树体和保护设施。",
+      "en": "Include the supports in a full-tree shot, then frame a bark detail to contrast tree and protection works.",
+      "ru": "Снимите дерево вместе с опорами, затем отдельно фактуру коры.",
+      "uk": "Зніміть дерево разом з опорами, а потім окремо фактуру кори."
+    },
+    "displayAddress": {
+      "zh": "塔拉斯·布尔巴街",
+      "en": "Tarasa Bulby Street",
+      "ru": "Улица Тараса Бульбы",
+      "uk": "вул. Тараса Бульби, Запоріжжя"
+    }
+  },
+  {
+    "slug": "mogila-osipa-gladkogo",
+    "source": "https://zaporizhzhia.city/en/places/mogila-osipa-gladkogo",
+    "address": "вул. Університетська, на території Запорізького національного університету, Запоріжжя",
+    "coordinates": "47.81922200,35.18119500",
+    "image": "/explore/mogila-osipa-gladkogo.jpg",
+    "width": 450,
+    "height": 600,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2119/nOgWo.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "约瑟普・赫拉德基墓",
+        "这座墓纪念曾任多瑙河外塞契首领、后与亚速哥萨克军有关的约瑟普・赫拉德基。",
+        "地点在扎波罗热国立大学校区。先确认校园通行，再从步道阅读墓碑题记。",
+        null
+      ],
+      "en": [
+        "Grave of Yosyp Gladkyi",
+        "The grave commemorates the last kosh otaman of the Danubian Sich, later associated with the Azov Cossack Host.",
+        "On the university campus, confirm access first and read the inscription from the path.",
+        null
+      ],
+      "ru": [
+        "Могила Иосифа Гладкого",
+        "Здесь похоронен последний кошевой атаман Задунайской Сечи, впоследствии связанный с Азовским казачьим войском.",
+        "Уточните доступ на территорию университета и прочтите надпись с дорожки.",
+        null
+      ],
+      "uk": [
+        "Могила Йосипа Гладкого",
+        "Тут поховано останнього кошового отамана Задунайської Січі, згодом пов’язаного з Азовським козацьким військом.",
+        "Уточніть доступ на територію університету й прочитайте напис із доріжки.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "墓址在哪里？",
+        "位于大学街一带的扎波罗热国立大学校内；请先确认访客通行。"
+      ],
+      "en": [
+        "Where is the grave?",
+        "It is on the Zaporizhzhia National University campus near Universytetska Street. Check visitor access first."
+      ],
+      "ru": [
+        "Где находится могила?",
+        "На территории ЗНУ у Университетской улицы. Уточните доступ для посетителей."
+      ],
+      "uk": [
+        "Де розташована могила?",
+        "На території ЗНУ біля Університетської вулиці. Уточніть доступ для відвідувачів."
+      ]
+    },
+    "photography": {
+      "zh": "先拍墓碑与周边步道的关系，再在不踏入墓地的前提下记录题记。",
+      "en": "Document how the marker sits beside the path, then photograph the inscription without stepping onto the grave.",
+      "ru": "Сначала покажите памятник рядом с дорожкой, затем снимите надпись, не заходя на могилу.",
+      "uk": "Спершу покажіть пам’ятник поруч із доріжкою, а потім зніміть напис, не заходячи на могилу."
+    },
+    "displayAddress": {
+      "zh": "大学街，扎波罗热国立大学校园内",
+      "en": "Universytetska Street, Zaporizhzhia National University campus",
+      "ru": "Университетская улица, территория Запорожского национального университета",
+      "uk": "вул. Університетська, на території Запорізького національного університету, Запоріжжя"
+    }
+  },
+  {
+    "slug": "skulpturnaya-kompoziciya-stalevaru-i-uchitelnice-s-ulicy-zarechnoy",
+    "source": "https://zaporizhzhia.city/en/places/skulpturnaya-kompoziciya-stalevaru-i-uchitelnice-s-ulicy-zarechnoy",
+    "address": "б-р Шевченка, Запоріжжя",
+    "coordinates": "47.85002200,35.11494900",
+    "image": "/explore/skulpturnaya-kompoziciya-stalevaru-i-uchitelnice-s-ulicy-zarechnoy.jpg",
+    "width": 650,
+    "height": 487,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2117/70jEq.",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "钢铁工人与教师雕塑",
+        "舍甫琴科大道上这组雕塑揭幕于 2014 年，取材自曾在本市取景的电影《扎列奇纳亚街的春天》。",
+        "沿大道步道接近雕塑，从斜侧观察两个人物的姿态和彼此距离。",
+        null
+      ],
+      "en": [
+        "Steelworker and Teacher sculpture",
+        "Unveiled on Shevchenko Boulevard in 2014, the sculpture recalls Spring on Zarechnaya Street, filmed in the city.",
+        "Approach along the boulevard. An oblique angle shows the poses and spacing of the two figures.",
+        null
+      ],
+      "ru": [
+        "Сталевар и учительница",
+        "Скульптуру открыли на бульваре Шевченко в 2014 году в память о снятом в городе фильме «Весна на Заречной улице».",
+        "Подойдите по бульвару и посмотрите сбоку, как расположены обе фигуры.",
+        null
+      ],
+      "uk": [
+        "Сталевар і вчителька",
+        "Скульптуру відкрили на бульварі Шевченка 2014 року на згадку про фільм «Весна на Зарічній вулиці», знятий у місті.",
+        "Підійдіть бульваром і збоку розгляньте пози та взаємне розташування фігур.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "雕塑取材自哪里？",
+        "两个人物取材自电影《扎列奇纳亚街的春天》的教师与钢铁工人。"
+      ],
+      "en": [
+        "What inspired the two figures?",
+        "They recall the teacher and steelworker in Spring on Zarechnaya Street."
+      ],
+      "ru": [
+        "Откуда взяты два персонажа?",
+        "Это учительница и сталевар из фильма «Весна на Заречной улице»."
+      ],
+      "uk": [
+        "Звідки взято обидві постаті?",
+        "Це вчителька й сталевар із фільму «Весна на Зарічній вулиці»."
+      ]
+    },
+    "photography": {
+      "zh": "把两个人物一起放进横幅，保留人物之间的空间，较容易读出对话感。",
+      "en": "Use a horizontal frame that retains the space between the two figures and their conversational poses.",
+      "ru": "Оставьте пространство между двумя фигурами в горизонтальном кадре, чтобы читался их диалог.",
+      "uk": "Залиште простір між двома постатями в горизонтальному кадрі, щоб читався їхній діалог."
+    },
+    "displayAddress": {
+      "zh": "舍甫琴科大道",
+      "en": "Shevchenko Boulevard",
+      "ru": "Бульвар Шевченко",
+      "uk": "б-р Шевченка, Запоріжжя"
+    }
+  },
+  {
+    "slug": "zheleznodorozhnyy-vokzal-zaporozhe-1",
+    "source": "https://zaporizhzhia.city/en/places/zheleznodorozhnyy-vokzal-zaporozhe-1",
+    "address": "просп. Соборний, 2, Запоріжжя",
+    "coordinates": "47.79499200,35.18704700",
+    "image": "/explore/zheleznodorozhnyy-vokzal-zaporozhe-1.jpg",
+    "width": 800,
+    "height": 519,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2081/fwOYp.jpg",
+    "group": "culture",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "扎波罗热一号站站房",
+        "1954 年开放的现代站房以中央入口和上方雕塑构成正面视觉焦点。",
+        "在站前公共步行区看中央入口，不要进入轨道或妨碍旅客通行。",
+        null
+      ],
+      "en": [
+        "Zaporizhzhia I station building",
+        "The current station building opened in 1954. Its central entrance and sculpture above it anchor the façade.",
+        "Use the public forecourt for an exterior view and keep passenger routes clear.",
+        null
+      ],
+      "ru": [
+        "Вокзал Запорожье I",
+        "Современное здание открыли в 1954 году. Центральный вход и скульптура над ним выделяются на фасаде.",
+        "Осматривайте фасад с привокзальной площади, оставляя проход пассажирам.",
+        null
+      ],
+      "uk": [
+        "Вокзал Запоріжжя I",
+        "Сучасну будівлю відкрили 1954 року. Центральний вхід і скульптура над ним формують акцент фасаду.",
+        "Оглядайте фасад із привокзальної площі, залишаючи вільний прохід пасажирам.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "这是二号站吗？",
+        "这里是索博尔尼大道 2 号的一号站。搭车前请以车票上的站名为准。"
+      ],
+      "en": [
+        "Is this Zaporizhzhia II?",
+        "This is Zaporizhzhia I at 2 Sobornyi Avenue. Check the station on your ticket."
+      ],
+      "ru": [
+        "Это Запорожье II?",
+        "Здесь вокзал Запорожье I, Соборный проспект, 2. Сверьте станцию с билетом."
+      ],
+      "uk": [
+        "Це Запоріжжя II?",
+        "Тут вокзал Запоріжжя I, проспект Соборний, 2. Звірте станцію з квитком."
+      ]
+    },
+    "photography": {
+      "zh": "在站前广场以中央门洞为基准拍立面，再将镜头略抬高观察入口上方的雕塑。",
+      "en": "Align a façade shot with the central doorway, then tilt upward to isolate the sculpture over the entrance.",
+      "ru": "Выровняйте кадр по центральному входу, затем поднимите камеру к скульптуре над ним.",
+      "uk": "Вирівняйте кадр за центральним входом, а потім підніміть камеру до скульптури над ним."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道 2 号",
+      "en": "2 Sobornyi Avenue",
+      "ru": "Соборный проспект, 2",
+      "uk": "просп. Соборний, 2, Запоріжжя"
+    }
+  },
+  {
+    "slug": "park-im-klimova",
+    "source": "https://zaporizhzhia.city/en/places/park-im-klimova",
+    "address": "вул. Фелікса Мовчановського, 27, Запоріжжя",
+    "coordinates": "47.81795526,35.19466319",
+    "image": "/explore/park-im-klimova.jpg",
+    "width": 1024,
+    "height": 769,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/9091/-EJd9.jpeg",
+    "group": "parks",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "飞行员公园",
+        "这处舍甫琴基夫斯基区的邻里绿地以林荫、亲子活动区和邻近的科技博物馆为特色。",
+        "从费利克萨莫夫恰诺夫斯科霍街进入后留意树荫与开阔活动区的转换；博物馆另查开放。",
+        null
+      ],
+      "en": [
+        "Aviators Park",
+        "A landscaped neighbourhood park in Shevchenkivskyi district, with shade, a family area and a technology museum nearby.",
+        "Enter from Feliksa Movchanovskoho Street and compare the wooded paths with the open activity area. Check museum access separately.",
+        null
+      ],
+      "ru": [
+        "Парк Авиаторов",
+        "Зелёная зона Шевченковского района с тенистыми дорожками, семейной площадкой и соседним музеем техники.",
+        "От улицы Феликса Мовчановского пройдите от тенистых дорожек к открытой площадке. Режим музея уточняйте отдельно.",
+        null
+      ],
+      "uk": [
+        "Парк Авіаторів",
+        "Озеленений парк Шевченківського району з тінявими доріжками, сімейною зоною та сусіднім музеєм техніки.",
+        "Від вулиці Фелікса Мовчановського пройдіть від затінених доріжок до відкритої зони. Графік музею перевіряйте окремо.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "公园和科技博物馆可以一起去吗？",
+        "两处相邻。想参观展区，请另外查询馆方开放与入场方式。"
+      ],
+      "en": [
+        "Can I combine the park and technology museum?",
+        "They are next to each other. Check museum hours and admission separately."
+      ],
+      "ru": [
+        "Можно совместить парк и музей техники?",
+        "Они находятся рядом. Время работы музея и вход уточняйте отдельно."
+      ],
+      "uk": [
+        "Чи можна поєднати парк і музей техніки?",
+        "Вони розташовані поруч. Години роботи й вхід до музею перевіряйте окремо."
+      ]
+    },
+    "photography": {
+      "zh": "以林荫步道由暗至亮的过渡作构图，拍摄活动区时避开可辨识的儿童。",
+      "en": "Use the transition from shade to open space as a composition, keeping identifiable children outside the frame.",
+      "ru": "Используйте переход от тени к открытой площадке, не включая в кадр узнаваемых детей.",
+      "uk": "Використайте перехід від затінку до відкритої зони, не включаючи в кадр упізнаваних дітей."
+    },
+    "displayAddress": {
+      "zh": "费利克斯·莫夫恰诺夫斯基街 27 号",
+      "en": "27 Feliksa Movchanovskoho Street",
+      "ru": "Улица Феликса Мовчановского, 27",
+      "uk": "вул. Фелікса Мовчановського, 27, Запоріжжя"
+    }
+  },
+  {
+    "slug": "kaskad-fontanov-rajduga",
+    "source": "https://zaporizhzhia.city/en/places/kaskad-fontanov-rajduga",
+    "address": "Набережна автомагістраль, Запоріжжя",
+    "coordinates": "47.83568869,35.11703818",
+    "image": "/explore/kaskad-fontanov-rajduga.jpg",
+    "width": 1040,
+    "height": 585,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/7273/_mWNX.jpg",
+    "group": "parks",
+    "managerSource": "https://zp.gov.ua/documents/83527-pro-zaxodi-shhodo-pidgotovki-do-novorocnix-ta-rizdvianix-sviat",
+    "text": {
+      "zh": [
+        "彩虹阶梯喷泉",
+        "喷泉景观位于旧沃兹涅谢尼夫卡一带，长阶梯以中央水道和顶端拱门形成轴线。",
+        "从底部公共步道取景，沿开放阶梯走向顶端。即使停水，仍可观察阶梯和拱门的构图。",
+        "市政府文件列出 Tytan 与市政照明单位在瀑布喷泉的节庆照明分工；当前喷泉运作请依市府公告。"
+      ],
+      "en": [
+        "Rainbow Fountain Cascade",
+        "In the former Voznesenivka area, a central water channel and an upper arch organise the long stairway into a single axis.",
+        "Frame the steps from the lower public path, then follow open steps upward. The geometry remains visible when water is off.",
+        "A city directive identifies municipal company Tytan and the city lighting utility in the cascade’s event-lighting arrangements. Check municipal notices for current fountain operations."
+      ],
+      "ru": [
+        "Каскад фонтанов «Радуга»",
+        "На территории бывшей Вознесеновки длинную лестницу объединяют центральный водоток и арка наверху.",
+        "Начните съёмку с нижней дорожки. Даже без воды можно рассмотреть ось лестницы и арки.",
+        "В городском распоряжении указаны «Титан» и городская служба освещения в организации праздничной подсветки. Работу фонтанов уточняйте по текущим объявлениям."
+      ],
+      "uk": [
+        "Каскад фонтанів «Райдуга»",
+        "На території колишньої Вознесенівки довгі сходи об’єднані центральним водотоком і верхньою аркою.",
+        "Почніть знімати з нижньої доріжки. Навіть без води можна роздивитися вісь сходів та арки.",
+        "У міському розпорядженні зазначені «Титан» і міська служба освітлення в організації святкової ілюмінації. Роботу фонтанів звіряйте з чинними оголошеннями."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "喷泉没放水还有看点吗？",
+        "中央水道、长阶梯与顶端拱门仍可从公共步道观察。"
+      ],
+      "en": [
+        "What can I see when the water is off?",
+        "The central channel, stairway and upper arch are still visible from public paths."
+      ],
+      "ru": [
+        "Что посмотреть, когда воду выключили?",
+        "С дорожек видны центральный канал, лестница и верхняя арка."
+      ],
+      "uk": [
+        "Що оглянути, коли воду вимкнено?",
+        "З доріжок видно центральний канал, сходи й верхню арку."
+      ]
+    },
+    "photography": {
+      "zh": "从阶梯底部对准中央水道拍对称构图，再由侧面取景呈现阶梯坡度。",
+      "en": "Frame the central channel symmetrically from below, then shoot from the side to show the stair gradient.",
+      "ru": "Снимите центральный канал симметрично снизу, затем сбоку, чтобы показать уклон лестницы.",
+      "uk": "Зніміть центральний канал симетрично знизу, а потім збоку, щоб показати ухил сходів."
+    },
+    "displayAddress": {
+      "zh": "滨河大道",
+      "en": "Embankment Highway",
+      "ru": "Набережная автомагистраль",
+      "uk": "Набережна автомагістраль, Запоріжжя"
+    }
+  },
+  {
+    "slug": "fontan-zhizni",
+    "source": "https://zaporizhzhia.city/en/places/fontan-zhizni",
+    "address": "пл. Маяковського, Запоріжжя",
+    "coordinates": "47.84534800,35.12873200",
+    "image": "/explore/fontan-zhizni.jpg",
+    "width": 900,
+    "height": 600,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2149/3-GER.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "生命喷泉",
+        "雕塑家彼得罗・安蒂普设计的喷泉于 2004 年揭幕，八组雕塑环绕中心球体。",
+        "从广场外圈逐段观察人物与中央球体，用斜角同时拍下两者。",
+        null
+      ],
+      "en": [
+        "Fountain of Life",
+        "Petro Antyp’s fountain opened in 2004. Eight sculptural groups surround its central sphere.",
+        "Walk around the plaza edge to compare the figures. An oblique framing includes both the sphere and a sculpture.",
+        null
+      ],
+      "ru": [
+        "Фонтан жизни",
+        "Фонтан работы Петра Антипа открыли в 2004 году. Вокруг центральной сферы — восемь скульптурных групп.",
+        "Обойдите внешний край площади. Боковой ракурс позволяет снять сферу и одну из фигур вместе.",
+        null
+      ],
+      "uk": [
+        "Фонтан життя",
+        "Фонтан Петра Антипа відкрили 2004 року. Навколо центральної кулі розташовано вісім скульптурних груп.",
+        "Пройдіть краєм площі. Бічний ракурс дозволяє зняти кулю та одну з фігур разом.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "球体旁有几组雕塑？",
+        "中心球体周围有八组雕塑，可沿广场外圈依次观察。"
+      ],
+      "en": [
+        "How many sculptural groups surround the sphere?",
+        "Eight. Use the outer edge of the square to see them in sequence."
+      ],
+      "ru": [
+        "Сколько групп вокруг шара?",
+        "Восемь. Их можно осмотреть по очереди с края площади."
+      ],
+      "uk": [
+        "Скільки груп навколо кулі?",
+        "Вісім. Їх можна роздивитися послідовно з краю площі."
+      ]
+    },
+    "photography": {
+      "zh": "沿广场外缘移动，选一组人物雕塑作前景，让中央球体在后方保持完整。",
+      "en": "Move around the plaza edge and frame one sculptural group in front of the intact silhouette of the sphere.",
+      "ru": "Идите по краю площади и поместите одну группу на передний план, сохранив силуэт шара целиком.",
+      "uk": "Пройдіть краєм площі й оберіть одну групу як передній план, зберігши силует кулі повністю."
+    },
+    "displayAddress": {
+      "zh": "马雅可夫斯基广场",
+      "en": "Maiakovskoho Square",
+      "ru": "Площадь Маяковского",
+      "uk": "пл. Маяковського, Запоріжжя"
+    }
+  },
+  {
+    "slug": "exit-art-installation",
+    "source": "https://zaporizhzhia.city/en/places/Art-instaliatsiia%20%22Vykhid%22",
+    "address": "Правобережний пляж, Запоріжжя",
+    "coordinates": "47.88216307,35.08429204",
+    "image": "/explore/exit-art-installation.jpg",
+    "width": 1040,
+    "height": 693,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/65554/IUhrD.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "《出口》公共艺术装置",
+        "维塔利・普罗托谢尼亚以相互遮叠的墙面和开口呈现光线穿透空间的效果。",
+        "从开放的右岸公共步道改变观察角度，让开口和阴影一起入镜。",
+        null
+      ],
+      "en": [
+        "Exit art installation",
+        "Vitalii Protosenia arranged walls and openings to change how light cuts through the installation.",
+        "From open public paths on the right bank, change angle to frame an opening and its shadow together.",
+        null
+      ],
+      "ru": [
+        "Инсталляция «Выход»",
+        "Виталий Протосеня расположил стены и проёмы так, чтобы свет менял восприятие пространства.",
+        "С открытых дорожек правого берега найдите ракурс, где видны и проём, и тень.",
+        null
+      ],
+      "uk": [
+        "Інсталяція «Вихід»",
+        "Віталій Протосеня розташував стіни й отвори так, щоб світло змінювало сприйняття простору.",
+        "З відкритих доріжок правого берега оберіть ракурс, де видно і отвір, і тінь.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "什么角度能看出装置的设计？",
+        "沿公共步道走几步并比较不同开口，可看到墙面如何改变光影。"
+      ],
+      "en": [
+        "Which angle reveals the design?",
+        "Move along the public path and compare how different openings frame light and shadows."
+      ],
+      "ru": [
+        "Как увидеть замысел инсталляции?",
+        "Пройдите по дорожке и сравните, как разные проёмы обрамляют свет и тени."
+      ],
+      "uk": [
+        "Як побачити задум інсталяції?",
+        "Пройдіть доріжкою та порівняйте, як різні отвори обрамлюють світло й тіні."
+      ]
+    },
+    "photography": {
+      "zh": "先拍装置整体，再退到斜角让一道开口与另一面墙的影子同框。",
+      "en": "Take one wide view, then move obliquely to include an opening and the shadow of a second wall.",
+      "ru": "Снимите общий вид, затем под углом совместите проём и тень другой стены.",
+      "uk": "Зніміть загальний вигляд, а потім під кутом поєднайте отвір і тінь іншої стіни."
+    },
+    "displayAddress": {
+      "zh": "第聂伯河右岸沙滩",
+      "en": "Right-bank beach",
+      "ru": "Правобережный пляж",
+      "uk": "Правобережний пляж, Запоріжжя"
+    }
+  },
+  {
+    "slug": "alea-troand",
+    "source": "https://zaporizhzhia.city/en/places/alea-troand",
+    "address": "вул. Якова Новицького, Запоріжжя",
+    "coordinates": "47.83963090,35.13192840",
+    "image": "/explore/alea-troand.jpg",
+    "width": 1040,
+    "height": 694,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/65551/flKoA.jpg",
+    "group": "parks",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "玫瑰步道",
+        "这条 2018 年整建的行人绿带位于雅科瓦诺维茨科霍街，连接扎博廷斯科霍街和佩雷莫希街。",
+        "由任一端沿花圃走完整段，近拍时留在路面。花况随季节变化。",
+        null
+      ],
+      "en": [
+        "Rose Alley",
+        "The pedestrian garden, established in 2018, runs along Yakova Novytskoho Street between Zhabotynskoho and Peremohy streets.",
+        "Follow the beds from either end and stay on the path for close-ups. Bloom conditions vary by season.",
+        null
+      ],
+      "ru": [
+        "Аллея роз",
+        "Пешеходную зону устроили в 2018 году на улице Якова Новицкого между улицами Жаботинского и Победы.",
+        "Пройдите вдоль клумб с любого конца. Снимайте с дорожки и учитывайте сезон цветения.",
+        null
+      ],
+      "uk": [
+        "Алея троянд",
+        "Пішохідну зону облаштували 2018 року на вулиці Якова Новицького між вулицями Жаботинського й Перемоги.",
+        "Пройдіть уздовж клумб з будь-якого кінця. Знімайте з доріжки й зважайте на сезон цвітіння.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "玫瑰何时一定开花？",
+        "花况受季节与养护影响；步道的行人空间全年仍是观察重点。"
+      ],
+      "en": [
+        "Is there a guaranteed bloom date?",
+        "No fixed date applies. Flowering depends on season and maintenance, and the pedestrian layout is visible year-round."
+      ],
+      "ru": [
+        "Есть ли точная дата цветения?",
+        "Цветение зависит от сезона и ухода; планировка прогулочной зоны видна круглый год."
+      ],
+      "uk": [
+        "Чи є точна дата цвітіння?",
+        "Цвітіння залежить від сезону й догляду; планування пішохідної зони видно протягом року."
+      ]
+    },
+    "photography": {
+      "zh": "沿花圃边缘取低角度，用前后几段花床交代步道长度，避免跨入种植区。",
+      "en": "Use a low angle along the beds to show the path’s length while staying outside the planting area.",
+      "ru": "Снимите клумбы вдоль дорожки с низкой точки, не заходя в посадки.",
+      "uk": "Зніміть клумби вздовж доріжки з низької точки, не заходячи в насадження."
+    },
+    "displayAddress": {
+      "zh": "雅科夫·诺维茨基街",
+      "en": "Yakova Novytskoho Street",
+      "ru": "Улица Якова Новицкого",
+      "uk": "вул. Якова Новицького, Запоріжжя"
+    }
+  },
+  {
+    "slug": "park-metalurgiv-imeni-vitalia-sackogo",
+    "source": "https://zaporizhzhia.city/en/places/park-metalurgiv-imeni-vitalia-sackogo",
+    "address": "Парковий б-р, 15, Запоріжжя",
+    "coordinates": "47.86057750,35.09213820",
+    "image": "/explore/park-metalurgiv-imeni-vitalia-sackogo.jpg",
+    "width": 1040,
+    "height": 694,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/5213/cgRHM.jpg",
+    "group": "parks",
+    "managerSource": "https://zp.gov.ua/news/299966-dogliad-za-parkami-ta-skverami",
+    "text": {
+      "zh": [
+        "维塔利・萨茨基冶金公园",
+        "第聂伯河岸的冶金公园长期作为市民散步、节庆和音乐活动的场地。",
+        "由公园大道入口走向园内开放步道，可顺道看记忆之树；活动日依现场动线。",
+        "市政府公告记载，市营绿化单位 Zelenbud 与 Tytan 参与公园维护。"
+      ],
+      "en": [
+        "Vitaliy Satsky Metallurgical Park",
+        "The Dnipro-side park has long served as a venue for walks, festivals and concerts.",
+        "Enter from Parkovyi Boulevard and follow open paths to the Tree of Memory. On event days, use the marked routes.",
+        "The city reports maintenance by its municipal green-space teams Zelenbud and Tytan."
+      ],
+      "ru": [
+        "Парк Металлургов имени Виталия Сацкого",
+        "Парк у Днепра давно служит местом прогулок, фестивалей и концертов.",
+        "От Паркового бульвара пройдите по открытым дорожкам к Дереву памяти. Во время мероприятий следуйте указателям.",
+        "По данным горсовета, в уходе участвуют городские предприятия «Зеленбуд» и «Титан»."
+      ],
+      "uk": [
+        "Парк Металургів імені Віталія Сацького",
+        "Парк біля Дніпра давно слугує місцем прогулянок, фестивалів і концертів.",
+        "Від Паркового бульвару пройдіть відкритими доріжками до Дерева пам’яті. Під час подій дотримуйтеся вказівників.",
+        "За даними міськради, у догляді беруть участь міські підприємства «Зеленбуд» і «Титан»."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "记忆之树在同一个公园吗？",
+        "纪念装置位于冶金公园内，可从园内公共步道前往。"
+      ],
+      "en": [
+        "Is the Tree of Memory in this park?",
+        "Yes. Use the park’s public paths to reach the memorial."
+      ],
+      "ru": [
+        "Дерево памяти находится в этом парке?",
+        "Да, к мемориалу ведут общедоступные дорожки парка."
+      ],
+      "uk": [
+        "Дерево пам’яті розташоване в цьому парку?",
+        "Так, до меморіалу ведуть загальнодоступні доріжки парку."
+      ]
+    },
+    "photography": {
+      "zh": "用树列框出步道来向；若同时拍记忆之树，保留周围公园空间交代纪念装置的位置。",
+      "en": "Frame the path with its trees. Include the surrounding park when photographing the Tree of Memory to show its setting.",
+      "ru": "Обрамите дорожку деревьями. Снимая Дерево памяти, оставьте в кадре окружающий парк.",
+      "uk": "Обрамте доріжку деревами. Знімаючи Дерево пам’яті, залиште в кадрі довколишній парк."
+    },
+    "displayAddress": {
+      "zh": "公园大道 15 号",
+      "en": "15 Parkovyi Boulevard",
+      "ru": "Парковый бульвар, 15",
+      "uk": "Парковий б-р, 15, Запоріжжя"
+    }
+  },
+  {
+    "slug": "park-trudovoi-slavi1",
+    "source": "https://zaporizhzhia.city/en/places/park-trudovoi-slavi1",
+    "address": "просп. Соборний, 206, Запоріжжя",
+    "coordinates": "47.84917130,35.11757380",
+    "image": "/explore/park-trudovoi-slavi1.jpg",
+    "width": 625,
+    "height": 469,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/5157/9cWLZ.jpg",
+    "group": "parks",
+    "managerSource": "https://zp.gov.ua/news/361214-dogliadali-za-zelenimi-zonami",
+    "text": {
+      "zh": [
+        "劳动荣耀公园",
+        "1965 年开辟的公园以纪念植栽形成林荫步道，1973 年再增加一批橡树。",
+        "沿索博尔尼大道一侧进入，观察成排橡树如何界定步行轴线。",
+        "扎波罗热市政府把这座公园纳入市政绿地养护，市府公告记载了园内花圃养护。"
+      ],
+      "en": [
+        "Labour Glory Park",
+        "The park opened in 1965 with commemorative oak planting, followed by a second planting in 1973.",
+        "Enter from Sobornyi Avenue and use the line of oaks to follow the commemorative walkway.",
+        "Zaporizhzhia City Council includes the park in municipal green-space maintenance and reports work on its flower beds."
+      ],
+      "ru": [
+        "Парк Трудовой славы",
+        "Парк открыли в 1965 году, высадив памятные дубы. Посадки продолжили в 1973 году.",
+        "Войдите со стороны Соборного проспекта и проследите, как ряд дубов задаёт направление аллеи.",
+        "Горсовет включает парк в городскую программу ухода за зелёными зонами и сообщает о работах на его клумбах."
+      ],
+      "uk": [
+        "Парк Трудової слави",
+        "Парк відкрили 1965 року з пам’ятними насадженнями дубів. Висаджування продовжили 1973 року.",
+        "Увійдіть із проспекту Соборного й простежте, як ряд дубів формує вісь алеї.",
+        "Міська рада включає парк до міського догляду за зеленими зонами й повідомляє про роботи на його клумбах."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "步道为什么有成排橡树？",
+        "橡树承袭 1965 年与 1973 年的两次纪念植树。"
+      ],
+      "en": [
+        "Why are oaks planted in lines here?",
+        "They reflect commemorative planting in 1965 and again in 1973."
+      ],
+      "ru": [
+        "Почему дубы растут рядами?",
+        "Это результат памятных посадок в 1965 и 1973 годах."
+      ],
+      "uk": [
+        "Чому дуби ростуть рядами?",
+        "Це результат пам’ятних насаджень 1965 та 1973 років."
+      ]
+    },
+    "photography": {
+      "zh": "从橡树行列之间拍消失点，用前后树距呈现纪念植栽的节奏。",
+      "en": "Photograph toward the vanishing point between the oaks to show the rhythm of the commemorative planting.",
+      "ru": "Снимите перспективу между дубами, чтобы показать ритм памятных посадок.",
+      "uk": "Зніміть перспективу між дубами, щоб показати ритм пам’ятних насаджень."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道 206 号",
+      "en": "206 Sobornyi Avenue",
+      "ru": "Соборный проспект, 206",
+      "uk": "просп. Соборний, 206, Запоріжжя"
+    }
+  },
+  {
+    "slug": "alea-maakovskogo",
+    "source": "https://zaporizhzhia.city/en/places/alea-maakovskogo",
+    "address": "бульвар Марії Примаченко, Запоріжжя",
+    "coordinates": "47.84466540,35.12761830",
+    "image": "/explore/alea-maakovskogo.jpg",
+    "width": 1040,
+    "height": 778,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/4234/85f2m.jpg",
+    "group": "parks",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "玛丽亚・普里马琴科大道",
+        "这条市中心大道串联广场、喷泉与露天艺术活动场地，广场及喷泉的配置在二十世纪多次改变。",
+        "从生命喷泉一端沿人行道前进，回望广场开口，观察大道如何接入市中心街廓。",
+        null
+      ],
+      "en": [
+        "Mariia Prymachenko Boulevard",
+        "This central boulevard links a square, fountains and open-air art venues. Its public spaces changed several times during the 20th century.",
+        "Start at the Fountain of Life and look back toward the square to see how the boulevard opens into it.",
+        null
+      ],
+      "ru": [
+        "Бульвар Марии Примаченко",
+        "Бульвар связывает площадь, фонтаны и места для искусства под открытым небом. В XX веке их облик менялся.",
+        "Начните у Фонтана жизни и оглянитесь на площадь, чтобы увидеть, как в неё раскрывается бульвар.",
+        null
+      ],
+      "uk": [
+        "Бульвар Марії Примаченко",
+        "Бульвар поєднує площу, фонтани й місця для мистецтва просто неба. У XX столітті їхній вигляд змінювався.",
+        "Почніть біля Фонтану життя й озирніться до площі, щоб побачити, як бульвар виходить до неї.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "从哪一端开始最好辨认？",
+        "生命喷泉所在广场是辨识大道入口的地标。"
+      ],
+      "en": [
+        "Which end is easiest to identify?",
+        "Use the square with the Fountain of Life as your starting landmark."
+      ],
+      "ru": [
+        "С какого конца удобнее начать?",
+        "Ориентируйтесь на площадь с Фонтаном жизни."
+      ],
+      "uk": [
+        "З якого краю зручніше починати?",
+        "Орієнтуйтеся на площу з Фонтаном життя."
+      ]
+    },
+    "photography": {
+      "zh": "从靠近喷泉的一端回望大道，再转身拍广场，对照线性步道与开放空间。",
+      "en": "Look back along the boulevard from near the fountain, then turn toward the square to contrast the corridor and open space.",
+      "ru": "У фонтана снимите перспективу бульвара, затем повернитесь к площади для сравнения пространств.",
+      "uk": "Біля фонтану зніміть перспективу бульвару, а потім поверніться до площі для порівняння просторів."
+    },
+    "displayAddress": {
+      "zh": "玛丽亚·普里马琴科大道",
+      "en": "Mariia Prymachenko Boulevard",
+      "ru": "Бульвар Марии Примаченко",
+      "uk": "бульвар Марії Примаченко, Запоріжжя"
+    }
+  },
+  {
+    "slug": "komunalnij-zaklad-kinokoncertnij-zal-im-o-dovzenka",
+    "source": "https://zaporizhzhia.city/en/places/komunalnij-zaklad-kinokoncertnij-zal-im-o-dovzenka",
+    "address": "просп. Соборний, 145, Запоріжжя",
+    "coordinates": "47.84183250,35.13287650",
+    "image": "/explore/komunalnij-zaklad-kinokoncertnij-zal-im-o-dovzenka.jpg",
+    "width": 1040,
+    "height": 653,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01M1K75Z7ENMPMR0EEENEHATB6.jpg",
+    "group": "culture",
+    "managerSource": "https://zp.gov.ua/upload/content/o_1bveve1gijvg1rbdt1a161j18ni2a.pdf",
+    "text": {
+      "zh": [
+        "多夫任科电影院",
+        "1964 年开幕的多夫任科电影院是扎波罗热早期宽银幕放映场馆，也是市民看首映的地方。",
+        "在索博尔尼大道行人区观察招牌和入口。若想入内，再查当日放映。",
+        "依市议会公布的设立章程，场馆为扎波罗热市属电影及音乐表演机构。"
+      ],
+      "en": [
+        "Dovzhenko Cinema",
+        "Opened in 1964, the Dovzhenko was an early widescreen cinema in the city and a venue for premieres.",
+        "From the Sobornyi Avenue footway, look at the sign and entrance. Check the day’s programme before going inside.",
+        "The city council charter identifies the venue as a municipal cinema and concert institution."
+      ],
+      "ru": [
+        "Кинотеатр имени Довженко",
+        "Кинотеатр открыли в 1964 году. Здесь показывали широкоформатные фильмы и проводили городские премьеры.",
+        "На тротуаре Соборного проспекта рассмотрите вывеску и вход. Перед посещением проверьте афишу.",
+        "По уставу горсовета это городское киноконцертное учреждение."
+      ],
+      "uk": [
+        "Кінотеатр імені Довженка",
+        "Кінотеатр відкрили 1964 року. Тут показували широкоформатні фільми й проводили міські прем’єри.",
+        "З тротуару Соборного проспекту роздивіться вивіску та вхід. Перед відвідуванням перевірте афішу.",
+        "За статутом міськради це міський комунальний кіноконцертний заклад."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "可以顺道看当代艺术吗？",
+        "同一门牌另有 BIRUCHIY 艺术展场，请分开查阅两处场馆的节目。"
+      ],
+      "en": [
+        "Can I combine the cinema with contemporary art?",
+        "BIRUCHIY Art Centre shares the street address. Check each venue’s programme separately."
+      ],
+      "ru": [
+        "Можно совместить кино с выставкой?",
+        "Арт-центр BIRUCHIY указан по тому же адресу. Проверяйте программы отдельно."
+      ],
+      "uk": [
+        "Чи можна поєднати кіно з виставкою?",
+        "Артцентр BIRUCHIY має ту саму адресу. Перевіряйте програми окремо."
+      ]
+    },
+    "photography": {
+      "zh": "把入口与影院招牌放在同一画面，另拍门牌以便和同址艺廊区分。",
+      "en": "Frame the entrance and cinema sign together, then record the doorway separately from the gallery at the same address.",
+      "ru": "Снимите вход и вывеску вместе, затем отдельно зафиксируйте дверь кинотеатра рядом с галереей.",
+      "uk": "Зніміть вхід і вивіску разом, а потім окремо зафіксуйте двері кінотеатру поруч із галереєю."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道 145 号",
+      "en": "145 Sobornyi Avenue",
+      "ru": "Соборный проспект, 145",
+      "uk": "просп. Соборний, 145, Запоріжжя"
+    }
+  },
+  {
+    "slug": "zaporizkij-akademicnij-oblasnij-teatr-lalok",
+    "source": "https://zaporizhzhia.city/en/places/zaporizkij-akademicnij-oblasnij-teatr-lalok",
+    "address": "вул. Гоголя, 60, Запоріжжя",
+    "coordinates": "47.81650800,35.18194660",
+    "image": "/explore/zaporizkij-akademicnij-oblasnij-teatr-lalok.jpg",
+    "width": 850,
+    "height": 346,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/4187/0Sh7s.jpg",
+    "group": "culture",
+    "managerSource": "https://zor.gov.ua/komunalna-vlasnist/komunalnyy-zaklad-zaporizkyy-oblasnyy-teatr-lyalok-zaporizkoyi-oblasnoyi-rady",
+    "text": {
+      "zh": [
+        "扎波罗热州木偶剧院",
+        "剧团成立于 1939 年，战后恢复演出，1986 年取得位于果戈里街的固定场地。",
+        "先认清果戈里街入口，再依节目表安排演出，外观可从公共人行道取景。",
+        "剧院是扎波罗热州议会所属的公立剧院。"
+      ],
+      "en": [
+        "Zaporizhzhia Regional Puppet Theatre",
+        "The troupe started in 1939, resumed after the war and gained a permanent venue on Hoholia Street in 1986.",
+        "Find the street entrance first. Check the performance schedule, and photograph the façade from the public footway.",
+        "The theatre is a public institution of the Zaporizhzhia Regional Council."
+      ],
+      "ru": [
+        "Запорожский областной театр кукол",
+        "Труппа появилась в 1939 году, возобновила работу после войны и получила помещение на улице Гоголя в 1986 году.",
+        "Найдите вход с улицы Гоголя и сверяйтесь с афишей. Фасад можно снять с тротуара.",
+        "Театр является коммунальным учреждением Запорожского областного совета."
+      ],
+      "uk": [
+        "Запорізький обласний театр ляльок",
+        "Трупу заснували 1939 року, після війни вона відновила роботу, а 1986 року отримала приміщення на вулиці Гоголя.",
+        "Знайдіть вхід з вулиці Гоголя й звіртеся з афішею. Фасад можна зняти з тротуару.",
+        "Театр є комунальним закладом Запорізької обласної ради."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "能直接进场观看木偶戏吗？",
+        "演出依剧院节目表安排，出发前核对场次与购票方式。"
+      ],
+      "en": [
+        "Can I walk in for a puppet show?",
+        "Performances follow the theatre’s programme. Check the performance and booking arrangements before leaving."
+      ],
+      "ru": [
+        "Можно прийти на спектакль без записи?",
+        "Спектакли идут по афише. Заранее уточните сеанс и покупку билета."
+      ],
+      "uk": [
+        "Чи можна прийти на виставу без запису?",
+        "Вистави відбуваються за афішею. Заздалегідь уточніть час і придбання квитка."
+      ]
+    },
+    "photography": {
+      "zh": "从公共人行道取完整外观，再拍入口和节目看板，避免挡住候场人流。",
+      "en": "Use the public footway for the façade, then photograph the entrance and show board without blocking the queue.",
+      "ru": "С тротуара снимите фасад целиком, затем вход и афишу, не мешая очереди.",
+      "uk": "З тротуару зніміть фасад повністю, а потім вхід і афішу, не заважаючи черзі."
+    },
+    "displayAddress": {
+      "zh": "果戈里街 60 号",
+      "en": "60 Hoholia Street",
+      "ru": "Улица Гоголя, 60",
+      "uk": "вул. Гоголя, 60, Запоріжжя"
+    }
+  },
+  {
+    "slug": "memorial-skorbyashchaya-mat",
+    "source": "https://zaporizhzhia.city/en/places/memorial-skorbyashchaya-mat",
+    "address": "сквер на вулиці Гребельній, Запоріжжя",
+    "coordinates": "47.87536600,35.07748700",
+    "image": "/explore/memorial-skorbyashchaya-mat.jpg",
+    "width": 700,
+    "height": 466,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2127/hX9GF.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "《哀悼的母亲》纪念碑",
+        "1975 年揭幕的纪念碑由弗拉基米尔・杜比宁设计，青铜人物手持橡枝与头巾，位于战争墓地。",
+        "由赫雷贝利纳街广场步道进入，近看雕塑手势前先留意追思空间的使用。",
+        null
+      ],
+      "en": [
+        "Grieving Mother memorial",
+        "Opened in 1975, Volodymyr Dubinin’s bronze figure holds an oak branch and a scarf at a war burial site.",
+        "Approach from the Hrebelna Street square and observe the hands from the path. Give commemorations space.",
+        null
+      ],
+      "ru": [
+        "Мемориал «Скорбящая мать»",
+        "Мемориал Владимира Дубинина открыли в 1975 году. Бронзовая фигура с дубовой ветвью и платком стоит у воинского захоронения.",
+        "Подойдите через сквер с Гребельной улицы и рассмотрите жест рук, не мешая памятным мероприятиям.",
+        null
+      ],
+      "uk": [
+        "Меморіал «Скорботна мати»",
+        "Меморіал Володимира Дубініна відкрили 1975 року. Бронзова постать із дубовою гілкою та хусткою стоїть біля військового поховання.",
+        "Підійдіть сквером з Гребельної та роздивіться жест рук, не заважаючи вшануванню.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "雕像手上的物件是什么？",
+        "人物一手持橡枝，另一手持头巾。"
+      ],
+      "en": [
+        "What is the figure holding?",
+        "An oak branch in one hand and a scarf in the other."
+      ],
+      "ru": [
+        "Что держит фигура?",
+        "Дубовую ветвь в одной руке и платок в другой."
+      ],
+      "uk": [
+        "Що тримає постать?",
+        "Дубову гілку в одній руці й хустку в другій."
+      ]
+    },
+    "photography": {
+      "zh": "以侧面取景呈现人物手势，让橡枝与头巾同时清楚可见。",
+      "en": "Use a side angle to make both the oak branch and scarf visible in the figure’s hands.",
+      "ru": "Выберите боковой ракурс, чтобы в руках фигуры были видны дубовая ветвь и платок.",
+      "uk": "Оберіть бічний ракурс, щоб у руках постаті було видно дубову гілку й хустку."
+    },
+    "displayAddress": {
+      "zh": "赫雷贝利纳街小广场",
+      "en": "Square on Hrebelna Street",
+      "ru": "Сквер на Гребельной улице",
+      "uk": "сквер на вулиці Гребельній, Запоріжжя"
+    }
+  },
+  {
+    "slug": "oleksandrivskii-skver",
+    "source": "https://zaporizhzhia.city/en/places/oleksandrivskii-skver",
+    "address": "Запоріжжя, Олександрівський район, біля зупинки громадського транспорту «Університетська»",
+    "coordinates": null,
+    "image": "/explore/oleksandrivskii-skver.jpg",
+    "width": 1040,
+    "height": 693,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KJ29RZ6E3AS1AJVF0V94X4Y8.jpg",
+    "group": "parks",
+    "managerSource": "https://zp.gov.ua/documents/367121-pro-peredacu-vitrat-miskogo-biudzetu-z-potocnogo-remontu-ta-vstanovlennia-elementiv-blagoustroiu-u-skveri-oleksandrivskii",
+    "text": {
+      "zh": [
+        "奥列克桑德里夫斯基小公园",
+        "2025 年整建更新了步道、绿地和游戏区，园中的童话动物取材自玛丽亚・普里马琴科画作。",
+        "从大学街站一侧入园，沿步道找不同动物造型，避开游戏区活动路线拍照。",
+        "扎波罗热市执行委员会负责修缮与设施支出的行政安排。"
+      ],
+      "en": [
+        "Oleksandrivskyi Square",
+        "A 2025 renovation refreshed paths, planting and play facilities. The garden’s imaginary animals draw on Mariia Prymachenko’s paintings.",
+        "Enter from the Universytetska stop side and follow the paths to spot the animals without crossing active play areas.",
+        "The city executive committee oversees the administrative arrangements for repairs and improvements."
+      ],
+      "ru": [
+        "Александровский сквер",
+        "В 2025 году обновили дорожки, зелёные зоны и площадку. Сказочные звери вдохновлены картинами Марии Примаченко.",
+        "Войдите со стороны остановки «Университетская» и ищите фигуры с дорожек, обходя игровую зону.",
+        "Горисполком ведает административным оформлением расходов на ремонт и благоустройство."
+      ],
+      "uk": [
+        "Олександрівський сквер",
+        "У 2025 році оновили доріжки, зелені зони й майданчик. Казкові звірі натхненні картинами Марії Примаченко.",
+        "Увійдіть від зупинки «Університетська» й шукайте фігури з доріжок, оминаючи ігрову зону.",
+        "Міськвиконком опікується адміністративним оформленням витрат на ремонт і благоустрій."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "童话动物来自哪里？",
+        "造型取材自乌克兰艺术家玛丽亚・普里马琴科的画作。"
+      ],
+      "en": [
+        "What inspired the imaginary animals?",
+        "They draw on paintings by the Ukrainian artist Mariia Prymachenko."
+      ],
+      "ru": [
+        "Чем вдохновлены сказочные звери?",
+        "Картинами украинской художницы Марии Примаченко."
+      ],
+      "uk": [
+        "Чим натхненні казкові звірі?",
+        "Картинами української художниці Марії Примаченко."
+      ]
+    },
+    "photography": {
+      "zh": "从步道拍出动物造型与花园的相对位置，将游戏设施留作背景。",
+      "en": "Frame an animal figure from the path with the garden and play structures as context.",
+      "ru": "Снимите сказочную фигуру с дорожки, оставив сад и игровые конструкции на заднем плане.",
+      "uk": "Зніміть казкову постать із доріжки, залишивши сад та ігрові конструкції на тлі."
+    },
+    "displayAddress": {
+      "zh": "奥列克桑德里夫斯基区，大学街公交站旁",
+      "en": "Oleksandrivskyi District, near the Universytetska transit stop",
+      "ru": "Александровский район, у остановки «Университетская»",
+      "uk": "Запоріжжя, Олександрівський район, біля зупинки громадського транспорту «Університетська»"
+    }
+  },
+  {
+    "slug": "pamyatnik-tarasu-shevchenko",
+    "source": "https://zaporizhzhia.city/en/places/pamyatnik-tarasu-shevchenko",
+    "address": "просп. Моторобудівників, 34, Запоріжжя",
+    "coordinates": "47.81945500,35.19641500",
+    "image": "/explore/pamyatnik-tarasu-shevchenko.jpg",
+    "width": 700,
+    "height": 484,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2123/ZDvpH.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "塔拉斯・舍甫琴科纪念像",
+        "为纪念诗人与画家舍甫琴科诞辰 175 周年，雕塑家瓦西里・奥利尼克设计了这座青铜半身像，并以灰色抛光花岗岩作基座。",
+        "在舍甫琴基夫斯基区行政大楼旁的小广场观看，从正面读题记，再从侧面观察半身像与柱状基座的比例。",
+        null
+      ],
+      "en": [
+        "Taras Shevchenko monument",
+        "Sculptor Vasyl Oliinyk designed this bronze bust on polished grey granite for the 175th anniversary of the poet and artist’s birth.",
+        "Approach via the small square beside the district administration. Read the inscription from the front and compare the bust and pedestal from the side.",
+        null
+      ],
+      "ru": [
+        "Памятник Тарасу Шевченко",
+        "Скульптор Василий Олейник создал бронзовый бюст на полированном сером граните к 175-летию поэта и художника.",
+        "На площади у здания районной администрации прочтите надпись спереди и оцените пропорции бюста и постамента сбоку.",
+        null
+      ],
+      "uk": [
+        "Пам’ятник Тарасові Шевченку",
+        "Скульптор Василь Олійник створив бронзове погруддя на полірованому сірому граніті до 175-річчя поета й художника.",
+        "На площі біля районної адміністрації прочитайте напис спереду й оцініть пропорції погруддя та постаменту збоку.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "纪念像是用什么材料制成的？",
+        "半身像为青铜，基座为抛光灰色花岗岩。"
+      ],
+      "en": [
+        "What is the monument made of?",
+        "The bust is bronze and the pedestal is polished grey granite."
+      ],
+      "ru": [
+        "Из чего сделан памятник?",
+        "Бюст бронзовый, постамент из серого полированного гранита."
+      ],
+      "uk": [
+        "З чого зроблено пам’ятник?",
+        "Погруддя бронзове, постамент із сірого полірованого граніту."
+      ]
+    },
+    "photography": {
+      "zh": "先取青铜半身像和花岗岩基座全景，再以斜角拍两种材质的交界。",
+      "en": "Take a full shot of the bronze bust and granite pedestal, then frame the meeting of the two materials obliquely.",
+      "ru": "Снимите бронзовый бюст с гранитным постаментом целиком, затем их соединение под углом.",
+      "uk": "Зніміть бронзове погруддя з гранітним постаментом повністю, а потім їхній стик під кутом."
+    },
+    "displayAddress": {
+      "zh": "莫托罗布迪夫尼基夫大道 34 号",
+      "en": "34 Motorobudivnykiv Avenue",
+      "ru": "Проспект Моторостроителей, 34",
+      "uk": "просп. Моторобудівників, 34, Запоріжжя"
+    }
+  },
+  {
+    "slug": "stinopis",
+    "source": "https://zaporizhzhia.city/en/places/stinopis",
+    "address": "вул. Вячеслава Зайцева, 9",
+    "coordinates": null,
+    "image": "/explore/stinopis.jpg",
+    "width": 645,
+    "height": 800,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KHZRQBJ51N74KMGXA5SNYWXY.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "内斯托尔・马赫诺壁画",
+        "这幅街头壁画以历史人物内斯托尔・马赫诺为主题，呈现扎波罗热地方记忆中的一个面向。",
+        "到维亚切斯拉瓦扎伊采瓦街 9 号找图像所在外墙，从人行道斜侧看整幅比例。",
+        null
+      ],
+      "en": [
+        "Nestor Makhno mural",
+        "This street mural portrays Nestor Makhno, a figure in southern Ukrainian and anarchist history.",
+        "Find the façade at 9 Viacheslava Zaitseva Street and use the public pavement for an oblique view.",
+        null
+      ],
+      "ru": [
+        "Мурал «Нестор Махно»",
+        "Уличный мурал изображает Нестора Махно, фигуру истории юга Украины и анархистского движения.",
+        "Найдите стену по адресу Вячеслава Зайцева, 9 и рассмотрите пропорции с тротуара под углом.",
+        null
+      ],
+      "uk": [
+        "Мурал «Нестор Махно»",
+        "Мурал зображує Нестора Махна, постать історії півдня України й анархістського руху.",
+        "Знайдіть стіну за адресою В’ячеслава Зайцева, 9 і роздивіться пропорції з тротуару під кутом.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "壁画画的是谁？",
+        "画面主角是南部乌克兰历史人物内斯托尔・马赫诺。"
+      ],
+      "en": [
+        "Who is depicted on the mural?",
+        "Nestor Makhno, a historical figure associated with southern Ukraine."
+      ],
+      "ru": [
+        "Кто изображён на мурале?",
+        "Нестор Махно, историческая фигура юга Украины."
+      ],
+      "uk": [
+        "Кого зображено на муралі?",
+        "Нестора Махна, історичну постать півдня України."
+      ]
+    },
+    "photography": {
+      "zh": "先从人行道对正墙面拍整幅，再取一张人物局部，保留建筑边缘作尺度参照。",
+      "en": "Take a straight-on view from the pavement, then frame a figure detail with the building edge for scale.",
+      "ru": "Снимите стену прямо с тротуара, затем возьмите деталь, оставив край здания для масштаба.",
+      "uk": "Зніміть стіну прямо з тротуару, а потім деталь із краєм будівлі для масштабу."
+    },
+    "displayAddress": {
+      "zh": "维亚切斯拉夫·扎伊采夫街 9 号",
+      "en": "9 Viacheslava Zaitseva Street",
+      "ru": "Улица Вячеслава Зайцева, 9",
+      "uk": "вул. Вячеслава Зайцева, 9"
+    }
+  },
+  {
+    "slug": "municipalna-galereia-zaporizzia",
+    "source": "https://zaporizhzhia.city/en/places/municipalna-galereia-zaporizzia",
+    "address": "бульвар Центральний, 3",
+    "coordinates": null,
+    "image": "/explore/municipalna-galereia-zaporizzia.jpg",
+    "width": 1040,
+    "height": 693,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KJ082HYQSYPTHJ3G91N9HJY2.JPG",
+    "group": "culture",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "扎波罗热市立艺廊",
+        "市立艺廊与乌克兰国家艺术家联盟合作，提供本地艺术家展览与交流空间。",
+        "由中央大道 3 号前往，先查当期展览，再依入口公告确认拍照规定。",
+        "市立艺廊与乌克兰国家艺术家联盟合作策展。"
+      ],
+      "en": [
+        "Zaporizhzhia Municipal Gallery",
+        "The municipal gallery works with the National Union of Artists of Ukraine to exhibit work by local artists.",
+        "Go to 3 Tsentralnyi Boulevard and check the exhibition before leaving. Ask about photography at the entrance.",
+        "The municipal gallery programs exhibitions in cooperation with the National Union of Artists of Ukraine."
+      ],
+      "ru": [
+        "Запорожская муниципальная галерея",
+        "Галерея сотрудничает с Национальным союзом художников Украины и показывает работы местных авторов.",
+        "Отправляйтесь на Центральный бульвар, 3. Проверьте выставку и правила съёмки у входа.",
+        "Муниципальная галерея проводит выставки совместно с Национальным союзом художников Украины."
+      ],
+      "uk": [
+        "Запорізька муніципальна галерея",
+        "Галерея співпрацює з Національною спілкою художників України й показує роботи місцевих авторів.",
+        "Прямуйте на Центральний бульвар, 3. Перевірте виставку й правила знімання біля входу.",
+        "Муніципальна галерея проводить виставки у співпраці з Національною спілкою художників України."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "艺廊主要展示什么？",
+        "市立艺廊著重展示扎波罗热本地艺术家的作品，当期主题依公告。"
+      ],
+      "en": [
+        "What does the gallery show?",
+        "It focuses on local artists. Check the programme for the current exhibition."
+      ],
+      "ru": [
+        "Что показывает галерея?",
+        "Работы местных художников. Текущую выставку смотрите в программе."
+      ],
+      "uk": [
+        "Що показує галерея?",
+        "Роботи місцевих художників. Чинну виставку дивіться в програмі."
+      ]
+    },
+    "photography": {
+      "zh": "先查看入口展讯再决定参观重点，若馆方允许拍摄，可将展品与说明标签一起记录。",
+      "en": "Check the entrance programme first. If photography is permitted, include the label with the object.",
+      "ru": "Сначала проверьте афишу у входа. Если съёмка разрешена, снимите работу вместе с этикеткой.",
+      "uk": "Спершу перевірте афішу біля входу. Якщо знімання дозволено, зніміть твір разом з етикеткою."
+    },
+    "displayAddress": {
+      "zh": "中央大道 3 号",
+      "en": "3 Tsentralnyi Boulevard",
+      "ru": "Центральный бульвар, 3",
+      "uk": "бульвар Центральний, 3"
+    }
+  },
+  {
+    "slug": "zaporizhzhia-biruchiy-art-centre",
+    "source": "https://zaporizhzhia.city/en/places/zaporizhzhia-biruchiy-art-centre",
+    "address": "просп. Соборний, 145",
+    "coordinates": null,
+    "image": "/explore/zaporizhzhia-biruchiy-art-centre.jpg",
+    "width": 1040,
+    "height": 693,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KHZCE1CFAWXGM23HV0QBP3NT.jpg",
+    "group": "culture",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "BIRUCHIY 当代艺术中心",
+        "展场结合当代艺术中心与 BIRUCHIY 国际艺术研讨会的合作，常由艺术家驻地计划探索城市议题。",
+        "前往索博尔尼大道 145 号时留意展场入口，与同址电影院的活动公告分开查阅。",
+        "展场由当代艺术中心与 BIRUCHIY 国际艺术研讨会合作建立，展讯请参照展场公告。"
+      ],
+      "en": [
+        "BIRUCHIY Art Centre",
+        "The gallery grew from collaboration with the BIRUCHIY international contemporary art symposium and presents urban residency projects.",
+        "At 145 Sobornyi Avenue, confirm the gallery entrance and check its separate programme from the cinema at the same address.",
+        "The gallery was established by the Centre for Contemporary Art in collaboration with the BIRUCHIY symposium."
+      ],
+      "ru": [
+        "Арт-центр BIRUCHIY",
+        "Галерея возникла в сотрудничестве с симпозиумом BIRUCHIY и показывает проекты художественных резиденций о городе.",
+        "На Соборном, 145 уточните вход и смотрите программу галереи отдельно от афиши кинотеатра.",
+        "Галерею создал Центр современного искусства в сотрудничестве с симпозиумом BIRUCHIY."
+      ],
+      "uk": [
+        "Артцентр BIRUCHIY",
+        "Галерея виникла у співпраці із симпозіумом BIRUCHIY і показує проєкти мистецьких резиденцій про місто.",
+        "На Соборному, 145 уточніть вхід і перевірте програму галереї окремо від афіші кінотеатру.",
+        "Галерею створив Центр сучасного мистецтва у співпраці із симпозіумом BIRUCHIY."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "艺术中心和电影院是同一个活动吗？",
+        "两处地址相同，但展览与电影放映应分别核对。"
+      ],
+      "en": [
+        "Does the cinema programme list the art exhibitions?",
+        "The venues share an address. Check the gallery’s exhibitions independently of film listings."
+      ],
+      "ru": [
+        "Выставки указаны в афише кинотеатра?",
+        "Адрес общий, но выставки галереи и кинопоказы проверяйте отдельно."
+      ],
+      "uk": [
+        "Чи є виставки в афіші кінотеатру?",
+        "Адреса спільна, але виставки галереї й кінопокази перевіряйте окремо."
+      ]
+    },
+    "photography": {
+      "zh": "先拍展场门口的识别标志；入内后依展览规则决定是否拍摄装置。",
+      "en": "Record the gallery entrance sign first and check the exhibition rules before photographing installations.",
+      "ru": "Сначала снимите указатель галереи, а перед съёмкой инсталляций уточните правила выставки.",
+      "uk": "Спершу зніміть вказівник галереї, а перед зніманням інсталяцій уточніть правила виставки."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道 145 号",
+      "en": "145 Sobornyi Avenue",
+      "ru": "Соборный проспект, 145",
+      "uk": "просп. Соборний, 145"
+    }
+  },
+  {
+    "slug": "skver-ivana-gutnika-zaluznogo",
+    "source": "https://zaporizhzhia.city/en/places/skver-ivana-gutnika-zaluznogo",
+    "address": "Запоріжжя, Дніпровський район, Бородинський мікрорайон. Вздовж вулиці Товариської, трохи далі від житлових кварталів у північній частині міста",
+    "coordinates": null,
+    "image": "/explore/skver-ivana-gutnika-zaluznogo.jpg",
+    "width": 1040,
+    "height": 693,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KGF6490H5FR66NW77B35JQ3V.jpg",
+    "group": "parks",
+    "managerSource": "https://zp.gov.ua/documents/349544-pro-peredacu-vitrat-miskogo-biudzetu-za-objektom-kapitalnii-remont-teritoriyi-blagoustroiu-z-vlastuvanniam-inkliuzivnogo-s",
+    "text": {
+      "zh": [
+        "伊凡・胡特尼克-扎卢日内小公园",
+        "博罗丁斯基住宅区旁的绿地以 2014 年阵亡的扎波罗热志愿军官命名。",
+        "从托瓦里斯卡街沿公共步道进入，先留意题名标志，再在开放绿地停留。",
+        "扎波罗热市执行委员会负责修缮及共融运动设施的市政预算安排。"
+      ],
+      "en": [
+        "Ivan Gutnik-Zaluzhny Square",
+        "This green space by the Borodynskyi neighbourhood is named for a Zaporizhzhia volunteer officer who died in 2014.",
+        "Approach on public paths from Tovaryska Street and look for the name marker before exploring the green space.",
+        "The city executive committee oversees municipal budget arrangements for repairs and inclusive sports facilities."
+      ],
+      "ru": [
+        "Сквер Ивана Гутника-Залужного",
+        "Сквер у Бородинского микрорайона назван в честь запорожского офицера-добровольца, погибшего в 2014 году.",
+        "Войдите с Товарищеской улицы и обратите внимание на памятную надпись перед прогулкой.",
+        "Горисполком ведает бюджетным оформлением ремонта и устройства инклюзивной спортивной площадки."
+      ],
+      "uk": [
+        "Сквер Івана Гутніка-Залужного",
+        "Сквер біля Бородінського мікрорайону назвали на честь запорізького офіцера-добровольця, який загинув 2014 року.",
+        "Увійдіть з Товариської вулиці й зверніть увагу на пам’ятний напис перед прогулянкою.",
+        "Міськвиконком опікується бюджетними рішеннями щодо ремонту й облаштування інклюзивного спортивного майданчика."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "可用哪条街辨认小公园？",
+        "由博罗丁斯基住宅区旁的托瓦里斯卡街找公共步道。"
+      ],
+      "en": [
+        "Which street gives the best orientation?",
+        "Use Tovaryska Street beside the Borodynskyi neighbourhood."
+      ],
+      "ru": [
+        "На какую улицу ориентироваться?",
+        "На Товарищескую улицу рядом с Бородинским микрорайоном."
+      ],
+      "uk": [
+        "На яку вулицю орієнтуватися?",
+        "На Товариську вулицю біля Бородінського мікрорайону."
+      ]
+    },
+    "photography": {
+      "zh": "从公共步道把题名标志和后方绿带收在一张照片里，交代小公园的社区位置。",
+      "en": "Frame the name marker and green strip from the public path to show the square’s neighbourhood context.",
+      "ru": "С дорожки снимите памятную надпись вместе с зелёной полосой, чтобы показать положение сквера.",
+      "uk": "З доріжки зніміть пам’ятний напис разом із зеленою смугою, щоб показати розташування скверу."
+    },
+    "displayAddress": {
+      "zh": "第聂伯区博罗丁斯基社区，托瓦里斯卡街旁",
+      "en": "Dnipro District, Borodynskyi neighbourhood, along Tovaryska Street",
+      "ru": "Днепровский район, Бородинский микрорайон, вдоль Товарищеской улицы",
+      "uk": "Запоріжжя, Дніпровський район, Бородинський мікрорайон. Вздовж вулиці Товариської, трохи далі від житлових кварталів у північній частині міста"
+    }
+  },
+  {
+    "slug": "mural-cekai-mene",
+    "source": "https://zaporizhzhia.city/en/places/mural-cekai-mene",
+    "address": "просп. Соборний, 29, Запоріжжя",
+    "coordinates": null,
+    "image": "/explore/mural-cekai-mene.jpg",
+    "width": 688,
+    "height": 800,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KGF6B35Y7W76RG5565KY7VSD.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "《等我》壁画",
+        "乌克兰壁画家奥列克桑德尔・科尔班于 2025 年在退伍军人服务空间外墙绘制相拥人物。",
+        "到索博尔尼大道 29 号从公共侧观看，退后一些把壁画与建筑窗框一并纳入。",
+        null
+      ],
+      "en": [
+        "Wait for Me mural",
+        "Ukrainian muralist Oleksandr Korban painted the embracing figures on the Veteran PRO façade in 2025.",
+        "View the wall from the public side of 29 Sobornyi Avenue. Step back to frame the figures with the windows.",
+        null
+      ],
+      "ru": [
+        "Мурал «Жди меня»",
+        "Украинский художник Александр Корбан изобразил объятие на фасаде пространства Veteran PRO в 2025 году.",
+        "Смотрите с тротуара у Соборного, 29. Отойдите, чтобы в кадр вошли фигуры и оконные рамы.",
+        null
+      ],
+      "uk": [
+        "Мурал «Чекай мене»",
+        "Український художник Олександр Корбан зобразив обійми на фасаді простору Veteran PRO 2025 року.",
+        "Дивіться з тротуару біля Соборного, 29. Відійдіть, щоб у кадр увійшли постаті й віконні рами.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "壁画在哪一面？",
+        "位于索博尔尼大道 29 号 Veteran PRO 空间的外墙。"
+      ],
+      "en": [
+        "Which building carries the mural?",
+        "The Veteran PRO building at 29 Sobornyi Avenue."
+      ],
+      "ru": [
+        "На каком здании находится мурал?",
+        "На фасаде пространства Veteran PRO, Соборный проспект, 29."
+      ],
+      "uk": [
+        "На якій будівлі розташовано мурал?",
+        "На фасаді простору Veteran PRO, проспект Соборний, 29."
+      ]
+    },
+    "photography": {
+      "zh": "从人行道选能纳入整幅壁画与窗框的角度，不必进入退伍军人服务空间。",
+      "en": "Frame the mural and window lines from the pavement without entering the veterans’ service space.",
+      "ru": "С тротуара снимите мурал вместе с оконными рамами, не заходя в ветеранский центр.",
+      "uk": "З тротуару зніміть мурал разом із віконними рамами, не заходячи до ветеранського центру."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道 29 号",
+      "en": "29 Sobornyi Avenue",
+      "ru": "Соборный проспект, 29",
+      "uk": "просп. Соборний, 29, Запоріжжя"
+    }
+  },
+  {
+    "slug": "muzei-fenomenalnoyi-sili",
+    "source": "https://zaporizhzhia.city/en/places/muzei-fenomenalnoyi-sili",
+    "address": "бульвар Марії Примаченко, 7, Запоріжжя",
+    "coordinates": null,
+    "image": "/explore/muzei-fenomenalnoyi-sili.jpg",
+    "width": 1040,
+    "height": 694,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/01KG1Y9YCD960FFH0BD883YC7W.jpg",
+    "group": "culture",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "非凡力量博物馆",
+        "互动博物馆以本地运动员的照片、器材与故事介绍扎波罗热的体育文化。",
+        "先看人物与旧照片，再依现场工作人员指示体验互动展品。",
+        null
+      ],
+      "en": [
+        "Museum of Phenomenal Strength",
+        "The interactive museum uses athletes’ stories, archival photos and objects to tell the history of local sport.",
+        "Start with the portraits and archival material. Follow staff instructions before trying interactive exhibits.",
+        null
+      ],
+      "ru": [
+        "Музей феноменальной силы",
+        "Интерактивный музей рассказывает о спорте Запорожья через истории спортсменов, архивные фото и предметы.",
+        "Начните с портретов и архивных материалов. Пользуйтесь интерактивными экспонатами по указаниям сотрудников.",
+        null
+      ],
+      "uk": [
+        "Музей феноменальної сили",
+        "Інтерактивний музей розповідає про спорт Запоріжжя через історії спортсменів, архівні фото та предмети.",
+        "Почніть із портретів та архівних матеріалів. Інтерактивами користуйтеся за вказівками працівників.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "只看展品还是可以操作？",
+        "馆内有照片及文物，也有互动装置；能否操作依工作人员指示。"
+      ],
+      "en": [
+        "Can visitors try the exhibits?",
+        "The museum combines archival objects with interactive displays. Follow staff instructions on use."
+      ],
+      "ru": [
+        "Можно трогать экспонаты?",
+        "Есть архивные предметы и интерактивы. Пользуйтесь ими по указаниям сотрудников."
+      ],
+      "uk": [
+        "Чи можна торкатися експонатів?",
+        "Є архівні предмети й інтерактиви. Користуйтеся ними за вказівками працівників."
+      ]
+    },
+    "photography": {
+      "zh": "先拍能交代运动项目的展柜与标签，互动区则依馆方要求拍摄。",
+      "en": "Start with a case and its label to identify the sport, and follow staff rules in the interactive area.",
+      "ru": "Начните с витрины и подписи, объясняющей вид спорта; в интерактивной зоне следуйте правилам музея.",
+      "uk": "Почніть із вітрини й підпису про вид спорту, а в інтерактивній зоні дотримуйтеся правил музею."
+    },
+    "displayAddress": {
+      "zh": "玛丽亚·普里马琴科大道 7 号",
+      "en": "7 Mariia Prymachenko Boulevard",
+      "ru": "Бульвар Марии Примаченко, 7",
+      "uk": "бульвар Марії Примаченко, 7, Запоріжжя"
+    }
+  },
+  {
+    "slug": "zaporozhskaya-oblastnaya-filarmoniya-koncertnyy-zal-imeni-glinki",
+    "source": "https://zaporizhzhia.city/en/places/zaporozhskaya-oblastnaya-filarmoniya-koncertnyy-zal-imeni-glinki",
+    "address": "просп. Соборний, 183, Запоріжжя",
+    "coordinates": "47.85954600,35.10025500",
+    "image": "/explore/zaporozhskaya-oblastnaya-filarmoniya-koncertnyy-zal-imeni-glinki.jpg",
+    "width": 1040,
+    "height": 728,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2133/VFOp6.jpg",
+    "group": "culture",
+    "managerSource": "https://zor.gov.ua/komunalna-vlasnist/komunalnyy-zaklad-zaporizkyy-oblasna-filarmoniya-zaporizkoyi-oblasnoyi-rady",
+    "text": {
+      "zh": [
+        "扎波罗热州爱乐音乐厅",
+        "州爱乐团在索博尔尼大道的音乐厅举办音乐会、竞赛、节庆及儿童音乐活动。",
+        "从大道行人区观察入口与立面，入场前依州爱乐团节目表确认场次。",
+        "音乐厅由扎波罗热州爱乐团营运，爱乐团隶属扎波罗热州议会。"
+      ],
+      "en": [
+        "Zaporizhzhia Regional Philharmonic",
+        "The regional philharmonic hosts concerts, festivals, competitions and children’s music programmes in its Sobornyi Avenue hall.",
+        "View the entrance and façade from the avenue footway. Consult the philharmonic programme before attending.",
+        "The hall is operated by the regional philharmonic, a Zaporizhzhia Regional Council institution."
+      ],
+      "ru": [
+        "Запорожская областная филармония",
+        "Областная филармония проводит концерты, фестивали, конкурсы и детские программы в зале на Соборном проспекте.",
+        "Осмотрите вход и фасад с тротуара. Перед посещением проверьте афишу филармонии.",
+        "Залом управляет областная филармония, учреждение Запорожского областного совета."
+      ],
+      "uk": [
+        "Запорізька обласна філармонія",
+        "Обласна філармонія проводить концерти, фестивалі, конкурси й дитячі програми в залі на Соборному проспекті.",
+        "Огляньте вхід і фасад із тротуару. Перед відвідуванням перевірте афішу філармонії.",
+        "Залом опікується обласна філармонія, заклад Запорізької обласної ради."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "怎么查演出？",
+        "请按州爱乐团当期节目表确认演出、场地与票务。"
+      ],
+      "en": [
+        "Where can I check concerts?",
+        "Check the regional philharmonic’s programme for the performance, venue and tickets."
+      ],
+      "ru": [
+        "Где узнать о концертах?",
+        "В афише областной филармонии уточните концерт, площадку и билеты."
+      ],
+      "uk": [
+        "Де дізнатися про концерти?",
+        "В афіші обласної філармонії уточніть концерт, місце та квитки."
+      ]
+    },
+    "photography": {
+      "zh": "以入口作中央构图，再从侧向看量体与大道的关系，拍摄时留在人行区。",
+      "en": "Centre the entrance for one shot, then use an oblique view to show how the hall meets the avenue.",
+      "ru": "Снимите вход по центру, затем под углом покажите отношение здания к проспекту с тротуара.",
+      "uk": "Зніміть вхід по центру, а потім під кутом покажіть зв’язок будівлі з проспектом із тротуару."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道 183 号",
+      "en": "183 Sobornyi Avenue",
+      "ru": "Соборный проспект, 183",
+      "uk": "просп. Соборний, 183, Запоріжжя"
+    }
+  },
+  {
+    "slug": "muzey-galereya-prikladnoy-keramiki-i-zhivopisnogo-tvorchestva-ili-i-alekseya-burlay",
+    "source": "https://zaporizhzhia.city/en/places/muzey-galereya-prikladnoy-keramiki-i-zhivopisnogo-tvorchestva-ili-i-alekseya-burlay",
+    "address": "вул. Поштова, 29 (вхід з вулиці Блоговіщенської), Запоріжжя",
+    "coordinates": "47.81015600,35.18283800",
+    "image": "/explore/muzey-galereya-prikladnoy-keramiki-i-zhivopisnogo-tvorchestva-ili-i-alekseya-burlay.jpg",
+    "width": 800,
+    "height": 449,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2130/5guyK.jpg",
+    "group": "culture",
+    "managerSource": "https://museum-gallery.org/uk/contacts/",
+    "text": {
+      "zh": [
+        "布尔莱陶艺与艺术博物馆",
+        "这座博物馆以伊利亚与奥列克西・布尔莱的艺术创作为主题，展示绘画、陶器与城市早期建筑资料。",
+        "门牌在波什托瓦街 29 号，旅游资料标示入口在布拉霍维先斯卡街。到场后依馆方指示参观。",
+        "参观预约和导览由布尔莱陶艺与艺术博物馆馆方安排。"
+      ],
+      "en": [
+        "Burlai Museum of Ceramics and Art",
+        "The museum presents works by Illia and Oleksii Burlai alongside paintings, ceramics and material on the city’s early buildings.",
+        "Use the Poshtova Street address and look for the entrance from Blahovishchenska Street. Follow the museum’s access instructions.",
+        "The Burlai Museum-Gallery arranges guided visits and reservations directly."
+      ],
+      "ru": [
+        "Музей керамики и искусства Бурлаев",
+        "Музей посвящён Илье и Алексею Бурлаям, живописи, керамике и материалам о ранних постройках города.",
+        "Ориентируйтесь на Почтовую, 29; вход указан с Благовещенской улицы. Следуйте указаниям музея.",
+        "Экскурсии и предварительную запись организует музей-галерея Бурлаев."
+      ],
+      "uk": [
+        "Музей кераміки й мистецтва Бурлаїв",
+        "Музей присвячено Іллі й Олексію Бурлаям, живопису, кераміці та матеріалам про ранню забудову міста.",
+        "Орієнтуйтеся на Поштову, 29; вхід вказано з Благовіщенської. Дотримуйтеся вказівок музею.",
+        "Екскурсії й попередній запис організовує музей-галерея Бурлаїв."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "入口在门牌同一条街吗？",
+        "馆址是波什托瓦街 29 号，旅游资料另指出可从布拉霍维先斯卡街找入口。"
+      ],
+      "en": [
+        "Is the entrance on the address street?",
+        "The address is 29 Poshtova Street. The visitor listing points to Blahovishchenska Street for the entrance."
+      ],
+      "ru": [
+        "Вход на той же улице, что адрес?",
+        "Адрес — Почтовая, 29; вход указан с Благовещенской улицы."
+      ],
+      "uk": [
+        "Вхід на тій самій вулиці, що й адреса?",
+        "Адреса — Поштова, 29; вхід вказано з Благовіщенської вулиці."
+      ]
+    },
+    "photography": {
+      "zh": "拍摄陶器前确认馆规；若允许，可并排记录器形、表面装饰及展品标签。",
+      "en": "Check the rules before photographing ceramics. If allowed, document the vessel profile, decoration and label.",
+      "ru": "Уточните правила съёмки керамики; если разрешено, снимите форму, декор и подпись.",
+      "uk": "Уточніть правила знімання кераміки; якщо дозволено, зніміть форму, декор і підпис."
+    },
+    "displayAddress": {
+      "zh": "波什托瓦街 29 号，从布拉霍维先斯卡街进入",
+      "en": "29 Poshtova Street, entrance from Blahovishchenska Street",
+      "ru": "Почтовая улица, 29, вход с Благовещенской",
+      "uk": "вул. Поштова, 29 (вхід з вулиці Блоговіщенської), Запоріжжя"
+    }
+  },
+  {
+    "slug": "pamyatnik-zhertvam-golodomora",
+    "source": "https://zaporizhzhia.city/en/places/pamyatnik-zhertvam-golodomora",
+    "address": "просп. Соборний, сквер ім. Олександра Поляка, Запоріжжя",
+    "coordinates": "47.85583200,35.10915500",
+    "image": "/explore/pamyatnik-zhertvam-golodomora.jpg",
+    "width": 700,
+    "height": 487,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2121/142YM.jpg",
+    "group": "art",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "乌克兰大饥荒受难者纪念碑",
+        "纪念碑于 2007 年 11 月立于索博尔尼大道旁的奥列克桑德尔・波利亚克小公园，悼念大饥荒受难者。",
+        "由大道进入公园步道，先阅读题记，再从侧面观察碑体与广场的关系。",
+        null
+      ],
+      "en": [
+        "Holodomor victims memorial",
+        "Installed in November 2007 off Sobornyi Avenue, the memorial in Oleksandr Poliak Square commemorates famine victims.",
+        "Enter from the avenue and read the inscription before viewing how the monument sits within the square.",
+        null
+      ],
+      "ru": [
+        "Памятник жертвам Голодомора",
+        "Памятник установили в ноябре 2007 года в сквере Александра Поляка у Соборного проспекта в память о жертвах голода.",
+        "Войдите с проспекта, прочтите надпись и осмотрите памятник сбоку с дорожки.",
+        null
+      ],
+      "uk": [
+        "Пам’ятник жертвам Голодомору",
+        "Пам’ятник встановили в листопаді 2007 року у сквері Олександра Поляка біля Соборного проспекту на згадку про жертв голоду.",
+        "Увійдіть із проспекту, прочитайте напис і роздивіться пам’ятник збоку з доріжки.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "纪念碑位于哪一座小公园？",
+        "在索博尔尼大道旁的奥列克桑德尔・波利亚克小公园。"
+      ],
+      "en": [
+        "Which square contains the memorial?",
+        "Oleksandr Poliak Square, off Sobornyi Avenue."
+      ],
+      "ru": [
+        "В каком сквере стоит памятник?",
+        "В сквере Александра Поляка у Соборного проспекта."
+      ],
+      "uk": [
+        "У якому сквері стоїть пам’ятник?",
+        "У сквері Олександра Поляка біля проспекту Соборного."
+      ]
+    },
+    "photography": {
+      "zh": "在广场步道上先记录碑体全貌，再从侧面观察它与树木、人行动线的关系。",
+      "en": "Take an overall view from the square’s paths, then use a side angle to show the monument against trees and paths.",
+      "ru": "С дорожки снимите памятник целиком, затем сбоку покажите его связь с деревьями и проходами.",
+      "uk": "З доріжки зніміть пам’ятник повністю, а потім збоку покажіть його зв’язок із деревами й проходами."
+    },
+    "displayAddress": {
+      "zh": "索博尔尼大道，亚历山大·波利亚克小广场",
+      "en": "Oleksandr Poliak Square, Sobornyi Avenue",
+      "ru": "Сквер Александра Поляка, Соборный проспект",
+      "uk": "просп. Соборний, сквер ім. Олександра Поляка, Запоріжжя"
+    }
+  },
+  {
+    "slug": "muzej-arhitekturi-zaporizza1",
+    "source": "https://zaporizhzhia.city/en/places/muzej-arhitekturi-zaporizza1",
+    "address": "вул. Гоголя, 66",
+    "coordinates": "47.81957650,35.17940190",
+    "image": "/explore/muzej-arhitekturi-zaporizza1.jpg",
+    "width": 1040,
+    "height": 694,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/47581/vJkXd.jpg",
+    "group": "culture",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "扎波罗热建筑博物馆",
+        "为城市 250 周年设立的博物馆，以建筑串起自亚历山德罗夫斯克堡垒到现代住宅区的城市变迁。",
+        "先看展览中的街区及建筑资料，再由果戈里街步行至附近木偶剧院，比较两处街道立面。",
+        "这是扎波罗热的市立建筑博物馆，展览与参观资讯由馆方发布。"
+      ],
+      "en": [
+        "Museum of Zaporizhzhia Architecture",
+        "Created for the city’s 250th anniversary, the museum traces urban change from the Oleksandrivsk fortress to modern districts.",
+        "After the exhibits, walk along Hoholia Street toward the puppet theatre to compare street façades.",
+        "This is Zaporizhzhia’s municipal architecture museum. The museum publishes its exhibitions and visitor information."
+      ],
+      "ru": [
+        "Музей архитектуры Запорожья",
+        "Музей к 250-летию города рассказывает о застройке от Александровской крепости до современных микрорайонов.",
+        "После экспозиции пройдите по улице Гоголя к театру кукол и сравните уличные фасады.",
+        "Это муниципальный музей архитектуры. Музей публикует информацию о выставках и посещении."
+      ],
+      "uk": [
+        "Музей архітектури Запоріжжя",
+        "Музей до 250-річчя міста розповідає про забудову від Олександрівської фортеці до сучасних мікрорайонів.",
+        "Після експозиції пройдіть вулицею Гоголя до театру ляльок і порівняйте вуличні фасади.",
+        "Це міський музей архітектури. Музей публікує відомості про виставки та відвідування."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "这里的主要展览主题是什么？",
+        "展览以城市建筑与街区发展为线索，从早期堡垒谈到现代住区。"
+      ],
+      "en": [
+        "What is the museum’s main subject?",
+        "The city’s buildings and neighbourhoods, from the early fortress to modern residential districts."
+      ],
+      "ru": [
+        "Какова главная тема музея?",
+        "Городская застройка от ранней крепости до современных жилых районов."
+      ],
+      "uk": [
+        "Яка головна тема музею?",
+        "Міська забудова від ранньої фортеці до сучасних житлових районів."
+      ]
+    },
+    "photography": {
+      "zh": "选一组展览中的街区资料对照周边道路，展馆外可从果戈里街拍临街面。",
+      "en": "Pick one neighbourhood display to compare with the surrounding streets. Photograph the street frontage from Hoholia Street.",
+      "ru": "Сравните один выставочный материал о застройке с окружающими улицами, а фасад снимите с улицы Гоголя.",
+      "uk": "Порівняйте один виставковий матеріал про забудову з довколишніми вулицями, а фасад зніміть із вулиці Гоголя."
+    },
+    "displayAddress": {
+      "zh": "果戈里街 66 号",
+      "en": "66 Hoholia Street",
+      "ru": "Улица Гоголя, 66",
+      "uk": "вул. Гоголя, 66"
+    }
+  },
+  {
+    "slug": "zaporozhskiy-oblastnoy-hudozhestvennyy-muzey",
+    "source": "https://zaporizhzhia.city/en/places/zaporozhskiy-oblastnoy-hudozhestvennyy-muzey",
+    "address": "вул. Незалежної України, 76Б, Запоріжжя",
+    "coordinates": "47.84359400,35.13363400",
+    "image": "/explore/zaporozhskiy-oblastnoy-hudozhestvennyy-muzey.jpg",
+    "width": 1040,
+    "height": 693,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/2131/KlD38.jpg",
+    "group": "culture",
+    "managerSource": "https://www.zor.gov.ua/komunalna_vlasnist/45",
+    "text": {
+      "zh": [
+        "扎波罗热州美术馆",
+        "州美术馆自 1971 年开展馆务，早期馆藏以十九世纪至二十世纪初绘画为基础，后来扩及多种艺术媒介。",
+        "先查当期展览，再选择以时期或艺术媒介为主的观展顺序。馆内拍摄依现场规定。",
+        "美术馆是扎波罗热州议会所属的公立文化机构。"
+      ],
+      "en": [
+        "Zaporizhzhia Regional Art Museum",
+        "Founded in 1971, the museum built on a collection of 19th- and early 20th-century painting and later expanded across media.",
+        "Check what is on view and choose one period or medium to follow. Check photography rules at the museum.",
+        "The art museum is a public cultural institution of the Zaporizhzhia Regional Council."
+      ],
+      "ru": [
+        "Запорожский областной художественный музей",
+        "Музей работает с 1971 года. В основе собрания — живопись XIX и начала XX века; позднее его расширили другими видами искусства.",
+        "Уточните действующие выставки и выберите период или технику. Правила съёмки проверьте в музее.",
+        "Музей является коммунальным учреждением культуры Запорожского областного совета."
+      ],
+      "uk": [
+        "Запорізький обласний художній музей",
+        "Музей працює з 1971 року. Основою збірки став живопис XIX і початку XX століття, пізніше її доповнили іншими видами мистецтва.",
+        "Перевірте чинні виставки й оберіть період або мистецьке середовище. Правила знімання уточніть у музеї.",
+        "Музей є комунальною установою культури Запорізької обласної ради."
+      ]
+    },
+    "faq": {
+      "zh": [
+        "馆藏只有绘画吗？",
+        "早期以绘画为基础，馆藏后来纳入其他艺术媒介；展场依当期策展安排。"
+      ],
+      "en": [
+        "Is the collection entirely paintings?",
+        "Painting formed the original core. Other media joined later, and selections on display change."
+      ],
+      "ru": [
+        "В коллекции только живопись?",
+        "Живопись была её основой. Позднее добавились другие виды искусства, а выставки меняются."
+      ],
+      "uk": [
+        "У збірці лише живопис?",
+        "Живопис був її основою. Згодом додали інші види мистецтва, а виставки змінюються."
+      ]
+    },
+    "photography": {
+      "zh": "先依当期展览选一个时期作比较，馆内若允许拍摄，可将作品与展签同框。",
+      "en": "Choose one period from the current exhibition to compare. If allowed, frame a work with its exhibition label.",
+      "ru": "Выберите один период текущей выставки. Если съёмка разрешена, включите этикетку в кадр.",
+      "uk": "Оберіть один період чинної виставки. Якщо знімання дозволено, включіть етикетку до кадру."
+    },
+    "displayAddress": {
+      "zh": "乌克兰独立街 76B 号",
+      "en": "76B Nezalezhnoi Ukrainy Street",
+      "ru": "Улица Независимой Украины, 76Б",
+      "uk": "вул. Незалежної України, 76Б, Запоріжжя"
+    }
+  },
+  {
+    "slug": "muzey-retro-avtomobiley",
+    "source": "https://zaporizhzhia.city/en/places/muzey-retro-avtomobiley",
+    "address": "вул. Виборзька, 8, Запоріжжя",
+    "coordinates": "47.87561540,35.12550030",
+    "image": "/explore/muzey-retro-avtomobiley.jpg",
+    "width": 1040,
+    "height": 692,
+    "photoSource": "https://odesa365-storage.s3.eu-north-1.amazonaws.com/locations/posts/location/1954/Y7d45.jpg",
+    "group": "culture",
+    "managerSource": null,
+    "text": {
+      "zh": [
+        "Phaeton 技术博物馆",
+        "馆藏以多年代汽车和摩托车为主，并延伸到其他机械展品，2013 年获乌克兰纪录认定。",
+        "先挑一个车辆年代比较车身和座舱，再按馆方开放动线看室外展区。",
+        null
+      ],
+      "en": [
+        "Phaeton Museum of Technology",
+        "Phaeton’s collection spans several generations of cars and motorcycles and includes other machinery. It received Ukrainian record recognition in 2013.",
+        "Pick one vehicle era to compare bodywork and cabins, then follow the open route to the outdoor display.",
+        null
+      ],
+      "ru": [
+        "Музей техники «Фаэтон»",
+        "Собрание охватывает автомобили и мотоциклы разных эпох и другую технику. В 2013 году коллекцию внесли в книгу рекордов Украины.",
+        "Выберите одну эпоху и сравните кузова и салоны. К уличной экспозиции идите по открытому маршруту.",
+        null
+      ],
+      "uk": [
+        "Музей техніки «Фаетон»",
+        "Збірка охоплює автомобілі й мотоцикли різних епох та іншу техніку. У 2013 році колекцію внесли до книги рекордів України.",
+        "Оберіть одну епоху й порівняйте кузови та салони. До вуличної експозиції йдіть відкритим маршрутом.",
+        null
+      ]
+    },
+    "faq": {
+      "zh": [
+        "可以看哪些车辆？",
+        "从跨年代的汽车和摩托车选一类开始，现场展品依馆方安排。"
+      ],
+      "en": [
+        "What kinds of vehicles can I see?",
+        "The collection includes cars and motorcycles from multiple periods. What is on display depends on the museum."
+      ],
+      "ru": [
+        "Какой транспорт можно увидеть?",
+        "В коллекции есть автомобили и мотоциклы разных эпох. Состав выставки определяет музей."
+      ],
+      "uk": [
+        "Який транспорт можна побачити?",
+        "У збірці є автомобілі й мотоцикли різних епох. Склад експозиції визначає музей."
+      ]
+    },
+    "photography": {
+      "zh": "从展线比较同年代车辆的头灯、格栅与座舱；退到通道再取完整车身。",
+      "en": "Compare headlights, grilles and cabins of comparable-era vehicles, then step back within the aisle to frame the full body.",
+      "ru": "Сравните фары, решётки и салоны машин одной эпохи, затем отступите в проход для общего кадра.",
+      "uk": "Порівняйте фари, решітки й салони машин однієї доби, а потім відійдіть у прохід для загального кадру."
+    },
+    "displayAddress": {
+      "zh": "维博尔兹卡街 8 号",
+      "en": "8 Vyborkska Street",
+      "ru": "Выборгская улица, 8",
+      "uk": "вул. Виборзька, 8, Запоріжжя"
+    }
+  }
+]

@@ -1,6 +1,6 @@
 'use client';
 
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { usePathname, routing, Link } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
@@ -13,6 +13,7 @@ const labels: Record<string, string> = {
 
 export default function LanguageToggle() {
   const locale = useLocale();
+  const t = useTranslations('ui');
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -36,7 +37,7 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('language')}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -59,6 +60,7 @@ export default function LanguageToggle() {
               key={loc}
               href={pathname}
               locale={loc}
+              lang={loc}
               onClick={() => setOpen(false)}
               className="w-full text-left px-4 py-2.5 text-sm transition-colors"
               style={{
