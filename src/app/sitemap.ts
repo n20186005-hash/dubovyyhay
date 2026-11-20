@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { TOPIC_PATH } from '@/lib/topics';
 import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from '@/lib/site';
 
 export const dynamic = 'force-static';
@@ -7,7 +8,8 @@ export const dynamic = 'force-static';
 const LAST_MODIFIED = '2026-09-09';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const routes = ['', '/attractions', '/how-to-get', '/photos', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const topics = new Set<string>(Object.values(TOPIC_PATH));
+  const routes = ['', ...topics, '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
   const entries: MetadataRoute.Sitemap = [];
 
@@ -19,7 +21,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
       entries.push({
         url: localeUrl(locale, route),
-        lastModified: LAST_MODIFIED,
+        lastModified: topics.has(route) || (route === '' && (locale === 'ru' || locale === 'uk'))
+          ? '2026-11-20'
+          : LAST_MODIFIED,
         changeFrequency: route === '' ? 'weekly' : 'monthly',
         priority: route === '' ? 1 : 0.5,
         alternates: { languages },

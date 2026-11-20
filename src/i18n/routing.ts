@@ -10,6 +10,7 @@ export const routing = defineRouting({
     '/attractions': '/attractions',
     '/how-to-get': '/how-to-get',
     '/photos': '/photos',
+    '/history': '/history',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',

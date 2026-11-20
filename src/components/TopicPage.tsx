@@ -3,6 +3,8 @@ import { SITE_URL } from '@/lib/site';
 import { TOPIC_SLUGS, TOPIC_PATH, type TopicSlug } from '@/lib/topics';
 import Header from './Header';
 import Footer from './Footer';
+import Gallery from './Gallery';
+import { MAPS_SHARE_URL } from '@/lib/geo';
 
 export default async function TopicPage({ topic }: { topic: TopicSlug }) {
   const locale = await getLocale();
@@ -106,6 +108,20 @@ export default async function TopicPage({ topic }: { topic: TopicSlug }) {
             </div>
           </div>
         </section>
+
+        {(topic === 'history' || topic === 'how-to-get') && (
+          <nav aria-label={th('map')} className="max-w-3xl mx-auto px-4 sm:px-6 pb-10">
+            <ul className="flex flex-wrap gap-x-5 gap-y-2 text-sm">
+              <li><a className="underline" href={MAPS_SHARE_URL}>{th('map')}</a></li>
+              {topic === 'history' && <>
+              <li><a className="underline" href="https://zp.gov.ua/news/377654-140-novix-dubiv-u-parku-dubovii-gai">{t('history.sources.0')}</a></li>
+              <li><a className="underline" href="https://zp.gov.ua/news/308934-sotnia-dubkiv-dlia-dubovogo-gaiu">{t('history.sources.1')}</a></li>
+              </>}
+            </ul>
+          </nav>
+        )}
+
+        {topic === 'photos' && <Gallery />}
 
         {/* FAQ */}
         <section className="px-4 sm:px-6 py-10 sm:py-14" style={{ background: 'var(--bg-secondary)' }}>

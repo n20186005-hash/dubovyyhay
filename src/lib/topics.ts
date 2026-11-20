@@ -1,12 +1,13 @@
 import { SITE_LOCALES, DEFAULT_LOCALE, localeUrl } from './site';
 
-export const TOPIC_SLUGS = ['attractions', 'how-to-get', 'photos'] as const;
+export const TOPIC_SLUGS = ['attractions', 'how-to-get', 'photos', 'history'] as const;
 export type TopicSlug = (typeof TOPIC_SLUGS)[number];
 
 export const TOPIC_PATH: Record<TopicSlug, string> = {
   attractions: '/attractions',
   'how-to-get': '/how-to-get',
   photos: '/photos',
+  history: '/history',
 };
 
 export function topicCanonical(locale: string, slug: TopicSlug): string {
